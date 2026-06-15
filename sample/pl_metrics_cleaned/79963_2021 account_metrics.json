@@ -1,0 +1,15 @@
+{
+  "filename": "79963_2021 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/79963_2021 account_pl.txt",
+  "turnover": null,
+  "operating_profit": 4.0,
+  "profit_before_tax": 1500000000.0,
+  "profit_loss_for_year": 2324582000.0,
+  "currency": "USD",
+  "raw_data": [
+    "Operating Profit at line 402: 4",
+    "Profit Before Tax at line 145: Company. With this injection of capital the Company proposes to repay $1,500,000",
+    "Profit/Loss for Year at line 114: The profit for the financial year, after taxation, amounted to \u20ac2,324,582,000 (2"
+  ],
+  "confidence": "high"
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "182294_2014 account_pl",
+  "currency": "Unknown",
+  "table_rows": [
+    {
+      "label": "Year ended 31 December 20 I: 5",
+      "values": [
+        31.0,
+        20.0,
+        5.0
+      ],
+      "largest_value": 31.0
+    },
+    {
+      "label": "2-5: 2-5",
+      "values": [
+        2.0,
+        5.0,
+        2.0,
+        5.0
+      ],
+      "largest_value": 5.0
+    },
+    {
+      "label": "7-8: 7-8",
+      "values": [
+        7.0,
+        8.0,
+        7.0,
+        8.0
+      ],
+      "largest_value": 8.0
+    },
+    {
+      "label": "13-27: 13-27",
+      "values": [
+        13.0,
+        27.0,
+        13.0,
+        27.0
+      ],
+      "largest_value": 27.0
+    },
+    {
+      "label": "Year ended 31 December: 2015",
+      "values": [
+        31.0,
+        2015.0
+      ],
+      "largest_value": 2015.0
+    },
+    {
+      "label": "Anthony O'Connor (appointed 23rd Sep: 2015)",
+      "values": [
+        23.0,
+        2015.0
+      ],
+      "largest_value": 2015.0
+    },
+    {
+      "label": "David Kenny (resigned 2nd June: 2015)",
+      "values": [
+        2.0,
+        2015.0
+      ],
+      "largest_value": 2015.0
+    },
+    {
+      "label": "Kimberley Holland (resigned 8th Jan: 2016)",
+      "values": [
+        8.0,
+        2016.0
+      ],
+      "largest_value": 2016.0
+    },
+    {
+      "label": "Joanne McHugh (appointed 9th Mar: 2016)",
+      "values": [
+        9.0,
+        2016.0
+      ],
+      "largest_value": 2016.0
+    },
+    {
+      "label": "Kimberley Holland (resigned 9th Mar: 2016)",
+      "values": [
+        9.0,
+        2016.0
+      ],
+      "largest_value": 2016.0
+    },
+    {
+      "label": "Joanne McHugh (appointed 9th Mar: 2016)",
+      "values": [
+        9.0,
+        2016.0
+      ],
+      "largest_value": 2016.0
+    },
+    {
+      "label": "1 Forest Gate",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "RHI 1 9PT",
+      "values": [
+        1.0,
+        9.0
+      ],
+      "largest_value": 9.0
+    },
+    {
+      "label": "Dublin: 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "70 Sir John Rogerson's Quay",
+      "values": [
+        70.0
+      ],
+      "largest_value": 70.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "80 Harcourt Street,",
+      "values": [
+        80.0
+      ],
+      "largest_value": 80.0
+    },
+    {
+      "label": "Dublin: 2,",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "Year ended 31 December: 2015",
+      "values": [
+        31.0,
+        2015.0
+      ],
+      "largest_value": 2015.0
+    },
+    {
+      "label": "The Directors present their annual report and audited financial statements for the year ended 31 December: 2015.",
+      "values": [
+        31.0,
+        2015.0
+      ],
+      "largest_value": 2015.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": null
+}

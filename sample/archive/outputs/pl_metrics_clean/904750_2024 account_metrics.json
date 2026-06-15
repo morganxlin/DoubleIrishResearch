@@ -1,0 +1,16 @@
+{
+  "filename": "904750_2024 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/904750_2024 account_pl.txt",
+  "turnover": 5.0,
+  "operating_profit": 6.0,
+  "profit_before_tax": -28682.0,
+  "profit_loss_for_year": -27294.0,
+  "currency": "USD",
+  "raw_data": [
+    "Turnover at line 310: 5",
+    "Operating Profit at line 323: 6",
+    "Profit Before Tax at line 331: (28,682)",
+    "Profit/Loss for Year at line 338: (27,294)"
+  ],
+  "confidence": "high"
+}

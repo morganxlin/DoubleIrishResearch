@@ -1,0 +1,306 @@
+[
+  {
+    "filename": "138763-Account_details_for_ARCROYAL_LIMITED-2018-09-30_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763-Account_details_for_ARCROYAL_LIMITED-2018-09-30_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "138763-Account_details_for_ARCROYAL_LIMITED-2019-09-30_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763-Account_details_for_ARCROYAL_LIMITED-2019-09-30_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "138763-Account_details_for_ARCROYAL_LIMITED-2020-09-30_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763-Account_details_for_ARCROYAL_LIMITED-2020-09-30_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "138763_2020 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763_2020 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "138763_2021 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763_2021 account_pl.txt",
+    "turnover": 31442.0,
+    "operating_profit": 2086.0,
+    "profit_before_tax": -202.0,
+    "profit_loss_for_year": 31.0,
+    "currency": "EUR",
+    "raw_data": [
+      "Turnover at line 300: 31,442: 31,442",
+      "Operating Profit at line 318: 2,086: 2,086",
+      "Profit Before Tax at line 347: k: (2020",
+      "Profit/Loss for Year at line 89: The company earned a profit for the year ended 31st December and is in a net ass"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "182294_2014 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2014 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "182294_2018 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2018 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "182294_2019 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2019 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": 201.0,
+    "currency": "Unknown",
+    "raw_data": [
+      "Profit/Loss for Year at line 11: December 2019 and of its profit for the year then ended;"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "182294_2020 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2020 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "182294_2021 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2021 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "182294_2022 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2022 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "Unknown",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "210890_2019 Account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/210890_2019 Account_pl.txt",
+    "turnover": 9.0,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "USD",
+    "raw_data": [
+      "Turnover at line 67: Sales revenues grew by 9% (US$"
+    ],
+    "confidence": "low"
+  },
+  {
+    "filename": "76927_2018 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/76927_2018 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "USD",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "76927_2019 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/76927_2019 account_pl.txt",
+    "turnover": 1.0,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "USD",
+    "raw_data": [
+      "Turnover at line 278: anticipated revenue that may be generated, expected future grol,/1/1:h of produc"
+    ],
+    "confidence": "low"
+  },
+  {
+    "filename": "76927_2021 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/76927_2021 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": null,
+    "currency": "USD",
+    "raw_data": [],
+    "confidence": "low"
+  },
+  {
+    "filename": "79963_2018 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/79963_2018 account_pl.txt",
+    "turnover": null,
+    "operating_profit": 4.0,
+    "profit_before_tax": -1904031.0,
+    "profit_loss_for_year": 1904031000.0,
+    "currency": "USD",
+    "raw_data": [
+      "Operating Profit at line 350: 4",
+      "Profit Before Tax at line 374: (1,904,031)",
+      "Profit/Loss for Year at line 114: The loss for the financial year, after taxation, amounted to \u20ac1,904,031,000 (201"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "79963_2019 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/79963_2019 account_pl.txt",
+    "turnover": null,
+    "operating_profit": 4.0,
+    "profit_before_tax": -538276.0,
+    "profit_loss_for_year": 538276000.0,
+    "currency": "USD",
+    "raw_data": [
+      "Operating Profit at line 386: 4",
+      "Profit Before Tax at line 406: (538,276)",
+      "Profit/Loss for Year at line 124: The loss for the financial year, after taxation, amounted to \u20ac538,276,000 (2018:"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "79963_2021 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/79963_2021 account_pl.txt",
+    "turnover": null,
+    "operating_profit": 4.0,
+    "profit_before_tax": 1500000000.0,
+    "profit_loss_for_year": 2324582000.0,
+    "currency": "USD",
+    "raw_data": [
+      "Operating Profit at line 402: 4",
+      "Profit Before Tax at line 145: Company. With this injection of capital the Company proposes to repay $1,500,000",
+      "Profit/Loss for Year at line 114: The profit for the financial year, after taxation, amounted to \u20ac2,324,582,000 (2"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "81753_2016 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2016 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": 201.0,
+    "currency": "USD",
+    "raw_data": [
+      "Profit/Loss for Year at line 229: April 2016 and of the loss for the financial year then ended; and"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "81753_2016 account1_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2016 account1_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": 201.0,
+    "currency": "USD",
+    "raw_data": [
+      "Profit/Loss for Year at line 229: April 2016 and of the loss for the financial year then ended; and"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "81753_2018 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2018 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": 1.0,
+    "profit_loss_for_year": null,
+    "currency": "USD",
+    "raw_data": [
+      "Profit Before Tax at line 467: matket .ratt -e:if intetc~t fot r,. ~imibr debt inst1\u00b71mie11t."
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "81753_2020 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2020 account_pl.txt",
+    "turnover": 1.0,
+    "operating_profit": null,
+    "profit_before_tax": 9.0,
+    "profit_loss_for_year": -1377.0,
+    "currency": "USD",
+    "raw_data": [
+      "Turnover at line 77: management of tl1e company's investees make sustainable, focused marketing inves",
+      "Profit Before Tax at line 362: 9",
+      "Profit/Loss for Year at line 421: (1,377)"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "81753_2021 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2021 account_pl.txt",
+    "turnover": null,
+    "operating_profit": null,
+    "profit_before_tax": null,
+    "profit_loss_for_year": -103.0,
+    "currency": "USD",
+    "raw_data": [
+      "Profit/Loss for Year at line 418: (103)"
+    ],
+    "confidence": "high"
+  },
+  {
+    "filename": "904750_2024 account_pl",
+    "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/904750_2024 account_pl.txt",
+    "turnover": 5.0,
+    "operating_profit": 6.0,
+    "profit_before_tax": -28682.0,
+    "profit_loss_for_year": -27294.0,
+    "currency": "USD",
+    "raw_data": [
+      "Turnover at line 310: 5",
+      "Operating Profit at line 323: 6",
+      "Profit Before Tax at line 331: (28,682)",
+      "Profit/Loss for Year at line 338: (27,294)"
+    ],
+    "confidence": "high"
+  }
+]

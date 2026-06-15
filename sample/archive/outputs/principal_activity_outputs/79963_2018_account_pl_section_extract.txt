@@ -1,0 +1,22 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 79963_2018 account_pl.txt
+====================================================================================================
+
+Principal activities, review of the business and future developments
+Janssen Pharmaceutical is an investment holding company. It is a fully owned subsidiary of Johnson & Johnson.
+The company's dividend income for the financial year was €nil (2017: €333,230,000).
+On 20th March 2018 Janssen Pharmaceutical merged with OMJ PR Holdings Limited. In consideration for the
+merger 1,250,000,000 ordinary shares in Janssen Pharmaceutical were issued to the shareholders of OMJ PR
+Holdings Limited as consideration for the transfer of assets and liabilities of OMJ PR Holdings Limited to
+Janssen Pharmaceutical. The difference between the nominal value of the shares issued and the transfer of
+assets and liabilities has been treated as a reserve arising on the merger.
+The principal activity of the company is to act as an investment holding company now and in future financial
+years.
+The company's financial year ends on the Sunday closest to 31 December, being 30 December 2018 for the
+current year (52 weeks) and 31 December 2017 for the prior year (52 weeks).
+Profits, dividends and reserves
+The loss for the financial year, after taxation, amounted to €1,904,031,000 (2017: profit of €2,486,073,000).
+The directors do not recommend the payment of a dividend (2017: €Nil).
+The company's statement of financial position shows total equity at 30 December 2018 of €22,521,099,000
+(2017: €20,858,342,000).

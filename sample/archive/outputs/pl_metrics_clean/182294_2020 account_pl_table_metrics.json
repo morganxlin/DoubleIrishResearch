@@ -1,0 +1,152 @@
+{
+  "filename": "182294_2020 account_pl",
+  "currency": "Unknown",
+  "table_rows": [
+    {
+      "label": "Year ended 31 December: 2020",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "2-6: 2-6",
+      "values": [
+        2.0,
+        6.0,
+        2.0,
+        6.0
+      ],
+      "largest_value": 6.0
+    },
+    {
+      "label": "8-10: 8-10",
+      "values": [
+        8.0,
+        10.0,
+        8.0,
+        10.0
+      ],
+      "largest_value": 10.0
+    },
+    {
+      "label": "15-35: 15-35",
+      "values": [
+        15.0,
+        35.0,
+        15.0,
+        35.0
+      ],
+      "largest_value": 35.0
+    },
+    {
+      "label": "DocuSign Envelope ID: 38396378-41 F1-4D98-856A-AD0D3F86FA5F",
+      "values": [
+        38396378.0,
+        41.0,
+        1.0,
+        4.0,
+        98.0,
+        856.0,
+        3.0,
+        86.0,
+        5.0
+      ],
+      "largest_value": 38396378.0
+    },
+    {
+      "label": "1 Stokes Place",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "D02 DE03",
+      "values": [
+        2.0,
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "Dublin: 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "70 Sir John Rogerson's Quay",
+      "values": [
+        70.0
+      ],
+      "largest_value": 70.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "Year ended 31 December: 2020",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "DocuSign Envelope ID: 38396378-41 F1-4D98-856A-AD0D3F86FA5F",
+      "values": [
+        38396378.0,
+        41.0,
+        1.0,
+        4.0,
+        98.0,
+        856.0,
+        3.0,
+        86.0,
+        5.0
+      ],
+      "largest_value": 38396378.0
+    },
+    {
+      "label": "Year ended 31 December: 2020",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "The Directors present their Directors' report and audited financial statements for the year ended 31 December: 2020.",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": null
+}

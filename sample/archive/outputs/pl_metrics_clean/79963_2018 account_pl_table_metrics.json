@@ -1,0 +1,431 @@
+{
+  "filename": "79963_2018 account_pl",
+  "currency": "USD",
+  "table_rows": [
+    {
+      "label": "1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "2-5",
+      "values": [
+        2.0,
+        5.0
+      ],
+      "largest_value": 5.0
+    },
+    {
+      "label": "6-8",
+      "values": [
+        6.0,
+        8.0
+      ],
+      "largest_value": 8.0
+    },
+    {
+      "label": "9",
+      "values": [
+        9.0
+      ],
+      "largest_value": 9.0
+    },
+    {
+      "label": "10",
+      "values": [
+        10.0
+      ],
+      "largest_value": 10.0
+    },
+    {
+      "label": "11",
+      "values": [
+        11.0
+      ],
+      "largest_value": 11.0
+    },
+    {
+      "label": "13 - 28",
+      "values": [
+        13.0,
+        28.0
+      ],
+      "largest_value": 28.0
+    },
+    {
+      "label": "79963",
+      "values": [
+        79963.0
+      ],
+      "largest_value": 79963.0
+    },
+    {
+      "label": "25 Canada Square",
+      "values": [
+        25.0
+      ],
+      "largest_value": 25.0
+    },
+    {
+      "label": "London E14 SLB",
+      "values": [
+        14.0
+      ],
+      "largest_value": 14.0
+    },
+    {
+      "label": "3 Burlington Road",
+      "values": [
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "Dublin 4",
+      "values": [
+        4.0
+      ],
+      "largest_value": 4.0
+    },
+    {
+      "label": "Page 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 30 DECEMBER 2018",
+      "values": [
+        30.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "The directors present their annual report and the audited financial statements for the financial year ended 30",
+      "values": [
+        30.0
+      ],
+      "largest_value": 30.0
+    },
+    {
+      "label": "December 2018.",
+      "values": [
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Reporting Council, including Financial Reporting Standard 101 Reduced Disclosure Framework and Irish law).",
+      "values": [
+        101.0
+      ],
+      "largest_value": 101.0
+    },
+    {
+      "label": "enable the directors to ensure that the financial statements comply with the Companies Act 2014 and",
+      "values": [
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "Page 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 30 DECEMBER 2018",
+      "values": [
+        30.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "The company's dividend income for the financial year was \u20acnil (2017: \u20ac333,230,000).",
+      "values": [
+        2017.0,
+        333230000.0
+      ],
+      "largest_value": 333230000.0
+    },
+    {
+      "label": "On 20th March 2018 Janssen Pharmaceutical merged with OMJ PR Holdings Limited. In consideration for the",
+      "values": [
+        20.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "merger 1,250,000,000 ordinary shares in Janssen Pharmaceutical were issued to the shareholders of OMJ PR",
+      "values": [
+        1250000000.0
+      ],
+      "largest_value": 1250000000.0
+    },
+    {
+      "label": "The company's financial year ends on the Sunday closest to 31 December, being 30 December 2018 for the",
+      "values": [
+        31.0,
+        30.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "current year (52 weeks) and 31 December 2017 for the prior year (52 weeks).",
+      "values": [
+        52.0,
+        31.0,
+        2017.0,
+        52.0
+      ],
+      "largest_value": 2017.0
+    },
+    {
+      "label": "The loss for the financial year, after taxation, amounted to \u20ac1,904,031,000 (2017: profit of \u20ac2,486,073,000).",
+      "values": [
+        1904031000.0,
+        2017.0,
+        2486073000.0
+      ],
+      "largest_value": 2486073000.0
+    },
+    {
+      "label": "The directors do not recommend the payment of a dividend (2017: \u20acNil).",
+      "values": [
+        2017.0
+      ],
+      "largest_value": 2017.0
+    },
+    {
+      "label": "The company's statement of financial position shows total equity at 30 December 2018 of \u20ac22,521,099,000",
+      "values": [
+        30.0,
+        2018.0,
+        22521099000.0
+      ],
+      "largest_value": 22521099000.0
+    },
+    {
+      "label": "(2017: \u20ac20,858,342,000).",
+      "values": [
+        2017.0,
+        20858342000.0
+      ],
+      "largest_value": 20858342000.0
+    },
+    {
+      "label": "Page 3",
+      "values": [
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 30 DECEMBER 2018",
+      "values": [
+        30.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "The names of the persons who are currently or were directors at any time during the financial year ended 30",
+      "values": [
+        30.0
+      ],
+      "largest_value": 30.0
+    },
+    {
+      "label": "December 2018 are set out below. Except where indicated, they served for the full year:",
+      "values": [
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Hugh Murphy (appointed 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Lorean Travers (appointed 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Brendan O'Leary (appointed 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Dave Geelan (appointed 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "T Demoncheaux (resigned 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "R Koors (resigned 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "A Birge (resigned 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "E Denman (resigned 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "P Wulfing (resigned 26 March 2018)",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "Brendan O'Leary is the company secretary and held this position from 26th March 2018 replacing Conyers",
+      "values": [
+        26.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "group company that is required to be disclosed in accordance with section 329 of the Companies Act 2014.",
+      "values": [
+        329.0,
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "The measures taken by the directors to ensure compliance with the requirements of Sections 281 to 285 of the",
+      "values": [
+        281.0,
+        285.0
+      ],
+      "largest_value": 285.0
+    },
+    {
+      "label": "Companies Act 2014 with regard to the keeping of accounting records, are the support of appropriately qualified",
+      "values": [
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "The Electoral (Amendment) (Political Funding) Act, 2012, requires companies to disclose all political donations",
+      "values": [
+        2012.0
+      ],
+      "largest_value": 2012.0
+    },
+    {
+      "label": "over \u20ac200 in aggregate made during the financial year. The directors, on enquiry, have satisfied themselves that",
+      "values": [
+        200.0
+      ],
+      "largest_value": 200.0
+    },
+    {
+      "label": "continue to operate as a going concern. The company has net current liabilities at year end of \u20ac13,314,413,000",
+      "values": [
+        13314413000.0
+      ],
+      "largest_value": 13314413000.0
+    },
+    {
+      "label": "(2017: \u20ac13,406,903,000).",
+      "values": [
+        2017.0,
+        13406903000.0
+      ],
+      "largest_value": 13406903000.0
+    },
+    {
+      "label": "Page4",
+      "values": [
+        4.0
+      ],
+      "largest_value": 4.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 30 DECEMBER 2018",
+      "values": [
+        30.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "This report was approved by the board on 16 December 2019 and signed on its behalf.",
+      "values": [
+        16.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "Page 5",
+      "values": [
+        5.0
+      ],
+      "largest_value": 5.0
+    },
+    {
+      "label": "Independent nudito1~s' 1~epo1~t to the -;-nen-tl-101;,s of\\J\"rt.nssert",
+      "values": [
+        1.0,
+        1.0,
+        1.0,
+        101.0
+      ],
+      "largest_value": 101.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": 2486073000.0
+}

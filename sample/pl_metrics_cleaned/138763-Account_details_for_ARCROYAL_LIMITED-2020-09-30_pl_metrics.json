@@ -1,0 +1,15 @@
+{
+  "filename": "138763-Account_details_for_ARCROYAL_LIMITED-2020-09-30_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763-Account_details_for_ARCROYAL_LIMITED-2020-09-30_pl.txt",
+  "turnover": 113.0,
+  "operating_profit": null,
+  "profit_before_tax": 2019.0,
+  "profit_loss_for_year": 101.0,
+  "currency": "EUR",
+  "raw_data": [
+    "turnover: statement-block extraction",
+    "profit_before_tax: statement-block extraction",
+    "Profit/Loss for Year: 6 have been properly prepared in accordance with FRS 101 Reduced Disclosure Fram"
+  ],
+  "confidence": "high"
+}

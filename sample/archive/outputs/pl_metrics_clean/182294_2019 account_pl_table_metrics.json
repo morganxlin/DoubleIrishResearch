@@ -1,0 +1,52 @@
+{
+  "filename": "182294_2019 account_pl",
+  "currency": "Unknown",
+  "table_rows": [
+    {
+      "label": "including the summary of significant accounting policies set out in note 1. The financial reporting",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "framework that has been applied in their preparation is Irish Law and FRS 101 Reduced Disclosure",
+      "values": [
+        101.0
+      ],
+      "largest_value": 101.0
+    },
+    {
+      "label": "give a true and fair view of the assets, liabilities and financial position of the Company as at: 31",
+      "values": [
+        31.0
+      ],
+      "largest_value": 31.0
+    },
+    {
+      "label": "December 2019 and of its profit for the year then ended;",
+      "values": [
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "have been properly prepared in accordance with FRS 101 Reduced Disclosure Framework; and",
+      "values": [
+        101.0
+      ],
+      "largest_value": 101.0
+    },
+    {
+      "label": "have been properly prepared in accordance with the requirements of the Companies Act: 2014.",
+      "values": [
+        2014.0
+      ],
+      "largest_value": 2014.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": 2019.0
+}

@@ -1,0 +1,15 @@
+{
+  "filename": "81753_2020 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/81753_2020 account_pl.txt",
+  "turnover": 1.0,
+  "operating_profit": null,
+  "profit_before_tax": 9.0,
+  "profit_loss_for_year": -1377.0,
+  "currency": "USD",
+  "raw_data": [
+    "Turnover at line 77: management of tl1e company's investees make sustainable, focused marketing inves",
+    "Profit Before Tax at line 362: 9",
+    "Profit/Loss for Year at line 421: (1,377)"
+  ],
+  "confidence": "high"
+}

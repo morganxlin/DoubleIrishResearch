@@ -1,0 +1,7 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 182294_2014 account_pl.txt
+====================================================================================================
+
+Principal activity
+The Company is engaged in the provision and distribution of information technology (IT) related subscription services.

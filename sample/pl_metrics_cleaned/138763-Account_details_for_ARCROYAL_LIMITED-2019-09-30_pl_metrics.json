@@ -1,0 +1,16 @@
+{
+  "filename": "138763-Account_details_for_ARCROYAL_LIMITED-2019-09-30_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763-Account_details_for_ARCROYAL_LIMITED-2019-09-30_pl.txt",
+  "turnover": 3888.0,
+  "operating_profit": -2017398000.0,
+  "profit_before_tax": 4029.0,
+  "profit_loss_for_year": 160.0,
+  "currency": "EUR",
+  "raw_data": [
+    "turnover: statement-block extraction",
+    "operating_profit: statement-block extraction",
+    "profit_before_tax: statement-block extraction",
+    "profit_loss_for_year: statement-block extraction"
+  ],
+  "confidence": "high"
+}

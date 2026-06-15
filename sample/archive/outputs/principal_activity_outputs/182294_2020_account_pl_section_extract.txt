@@ -1,0 +1,11 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 182294_2020 account_pl.txt
+====================================================================================================
+
+Principal activity
+Gartner Ireland Limited (the "Company") is a subsidiary of Gartner, Inc., the world's leading research and advisory
+company. The Company is engaged in the provision and distribution of research products and advisory services.
+Additionally, the Company licenses intellectual properties and together with Gartner, Inc., equips business leaders with
+indispensable insights, advice and tools to achieve their miss-critical priorities today and build the successful organisation
+of tomorrow.

@@ -1,0 +1,164 @@
+{
+  "total_companies": 6,
+  "analysis_results": [
+    {
+      "filename": "138763_2021 account_pl",
+      "company_id": "138763",
+      "currency": "EUR",
+      "turnover": 1.6,
+      "operating_profit": null,
+      "profit_before_tax": null,
+      "profit_for_year": 31.0,
+      "flags": [],
+      "net_profit_margin": 1937.5
+    },
+    {
+      "filename": "76927_2019 account_pl",
+      "company_id": "76927",
+      "currency": "USD",
+      "turnover": 2019.0,
+      "operating_profit": null,
+      "profit_before_tax": 28.0,
+      "profit_for_year": 28.0,
+      "flags": [],
+      "net_profit_margin": 1.3868251609707776
+    },
+    {
+      "filename": "76927_2021 account_pl",
+      "company_id": "76927",
+      "currency": "USD",
+      "turnover": 2021.0,
+      "operating_profit": null,
+      "profit_before_tax": null,
+      "profit_for_year": 25.0,
+      "flags": [],
+      "net_profit_margin": 1.2370113805047007
+    },
+    {
+      "filename": "81753_2016 account1_pl",
+      "company_id": "81753",
+      "currency": "USD",
+      "turnover": 650.0,
+      "operating_profit": 2017.0,
+      "profit_before_tax": 30.0,
+      "profit_for_year": 2016.0,
+      "flags": [],
+      "net_profit_margin": 310.15384615384613,
+      "operating_margin": 310.3076923076923
+    },
+    {
+      "filename": "81753_2016 account_pl",
+      "company_id": "81753",
+      "currency": "USD",
+      "turnover": 650.0,
+      "operating_profit": 2017.0,
+      "profit_before_tax": 30.0,
+      "profit_for_year": 2016.0,
+      "flags": [],
+      "net_profit_margin": 310.15384615384613,
+      "operating_margin": 310.3076923076923
+    }
+  ],
+  "companies": {
+    "138763": [
+      {
+        "filename": "138763_2021 account_pl",
+        "currency": "EUR",
+        "turnover": 1.6,
+        "operating_profit": null,
+        "profit_before_tax": null,
+        "profit_loss_for_year": 31.0
+      }
+    ],
+    "182294": [
+      {
+        "filename": "182294_2019 account_pl",
+        "currency": "Unknown",
+        "turnover": null,
+        "operating_profit": null,
+        "profit_before_tax": null,
+        "profit_loss_for_year": 2019.0
+      }
+    ],
+    "76927": [
+      {
+        "filename": "76927_2019 account_pl",
+        "currency": "USD",
+        "turnover": 2019.0,
+        "operating_profit": null,
+        "profit_before_tax": 28.0,
+        "profit_loss_for_year": 28.0
+      },
+      {
+        "filename": "76927_2021 account_pl",
+        "currency": "USD",
+        "turnover": 2021.0,
+        "operating_profit": null,
+        "profit_before_tax": null,
+        "profit_loss_for_year": 25.0
+      }
+    ],
+    "79963": [
+      {
+        "filename": "79963_2018 account_pl",
+        "currency": "USD",
+        "turnover": null,
+        "operating_profit": null,
+        "profit_before_tax": null,
+        "profit_loss_for_year": 1904031000.0
+      },
+      {
+        "filename": "79963_2019 account_pl",
+        "currency": "USD",
+        "turnover": null,
+        "operating_profit": null,
+        "profit_before_tax": null,
+        "profit_loss_for_year": 538276000.0
+      },
+      {
+        "filename": "79963_2021 account_pl",
+        "currency": "USD",
+        "turnover": null,
+        "operating_profit": null,
+        "profit_before_tax": 1500000000.0,
+        "profit_loss_for_year": 2324582000.0
+      }
+    ],
+    "81753": [
+      {
+        "filename": "81753_2016 account1_pl",
+        "currency": "USD",
+        "turnover": 650.0,
+        "operating_profit": 2017.0,
+        "profit_before_tax": 30.0,
+        "profit_loss_for_year": 2016.0
+      },
+      {
+        "filename": "81753_2016 account_pl",
+        "currency": "USD",
+        "turnover": 650.0,
+        "operating_profit": 2017.0,
+        "profit_before_tax": 30.0,
+        "profit_loss_for_year": 2016.0
+      },
+      {
+        "filename": "81753_2018 account_pl",
+        "currency": "USD",
+        "turnover": 2018.0,
+        "operating_profit": 1.0,
+        "profit_before_tax": 1.0,
+        "profit_loss_for_year": null
+      }
+    ],
+    "904750": [
+      {
+        "filename": "904750_2024 account_pl",
+        "currency": "USD",
+        "turnover": null,
+        "operating_profit": null,
+        "profit_before_tax": 14.0,
+        "profit_loss_for_year": null
+      }
+    ]
+  }
+}

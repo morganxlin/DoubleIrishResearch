@@ -1,0 +1,3286 @@
+Apple Operations International Limited 
+Directors' Report and Consolidated Financial Statements 
+Year Ended 25 September 2021 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT AND CONSOLIDATED FINANCIAL STATEMENTS 
+Year Ended 25 September 2021 
+Directors' Report 
+Directors' Responsibilities Statement 
+Independent Auditor's Report 
+Financial Statements and Notes 
+TABLE OF CONTENTS 
+Page 
+3 
+16 
+17 
+20 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The directors present their report and audited consolidated financial statements of Apple Operations International Limited, 
+(the "Company") and its subsidiaries (collectively the "Group") for the financial year ended 25 September 2021 ("2021"). The 
+consolidated financial statements are presented in U.S. dollars ("$") and rounded to the nearest million (unless otherwise 
+stated). 
+The directors have elected to prepare the consolidated financial statements of the Group in accordance with International 
+Financial Reporting Standards and their interpretations approved by the International Accounting Standards Board as 
+adopted by the European Union ("IFRS") and those parts of the Companies Act 2014 applicable to companies reporting 
+under IFRS. The Company financial statements are prepared in accordance with the Financial Reporting Standard 102 ("FRS 
+102") as issued by the Financial Reporting Council and the Companies Act 2014. 
+The Company's ultimate and immediate parent is Apple Inc. ("Ultimate Parent", "Apple", or "Apple Inc."), a company 
+incorporated in California, United States of America. 
+The Company is incorporated in Ireland with a registration number of 76941. The registered office is Hollyhill Industrial 
+Estate, Hollyhill, Co. Cork, Ireland. 
+Principal Activities, Business Review and Future Events 
+The Group develops, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and 
+sells a variety of related services. 
+The Group recorded net sales in 2021 of $211.1 billion (2020: $148.2 billion), an increase of 42.4%. Gross margin in 2021 
+was 42.4% (2020: 39.1%). The Group incurred research and development ("R&D") costs in 2021 of $12.5 billion (2020: $15.5 
+billion). Net income in 2021 was $56.2 billion (2020: $27.7 billion). Average full time equivalent employees for 2021 were 
+52,563 (2020: 51,255). Net assets for 2021 were $58.8 billion (2020: $26.4 billion), an increase of $32.4 billion. 
+The Company's principal activity is to serve as a holding company for the management of certain Apple subsidiary 
+companies and other investments. The profit of the Company in 2021 was $26.0 billion (2020: $70.3 billion). 
+The directors do not anticipate any significant change in activities for the Group and Company in the foreseeable future. 
+Income Taxes 
+The corporate income taxes reported in the Consolidated Statements of Operations, Balance Sheets, and Statements of 
+Cash Flows do not include significant U.S.-level corporate taxes borne by Apple Inc., the ultimate parent of the Group. 
+U.S.-level taxes are paid by Apple Inc. on investment income of the Group at the rate of 21.0% (2020: 21.0%) net of 
+applicable foreign tax credits. In addition, changes in U.S. tax legislation that took effect in December 2017 subject certain 
+current foreign earnings of the Group to a new minimum tax. 
+Risks and Uncertainties 
+The Group's business, reputation, results of operations and financial condition can be affected by a number of factors, 
+whether currently known or unknown, including those described below. When any one or more of these risks materialize from 
+time to time, the Group's business, reputation, results of operations and financial condition can be materially and adversely 
+affected. 
+Because of the following factors, as well as other factors affecting the Group's results of operations and financial condition, 
+past financial performance should not be considered to be a reliable indicator of future performance. This discussion of risk 
+factors contains forward-looking statements. 
+Risks Related to COVID-19 
+The Group's business, results of operations and financial condition have been adversely affected and could in the 
+future be materially adversely affected by the COVID-19 pandemic. 
+COVID-19 has had, and continues to have, a significant impact around the world, prompting governments and businesses to 
+take unprecedented measures in response. Such measures have included restrictions on travel and business operations, 
+temporary closures of businesses, and quarantine and shelter-in-place orders. The COVID-19 pandemic has at times 
+significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 3 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The COVID-19 pandemic and the measures taken by many countries in response have adversely affected and could in the 
+future materially adversely impact the Group's business, results of operations and financial condition. During the course of 
+the pandemic, certain of the Group's component suppliers and manufacturing and logistical service providers have 
+experienced disruptions, resulting in supply shortages that affected sales worldwide, and similar disruptions could occur in 
+the future. The Group's retail stores, as well as channel partner points of sale, have been temporarily closed at various times. 
+In many cases, as stores and points of sale have reopened, they are subject to operating restrictions to protect public health 
+and the health and safety of employees and customers. The Group has at times required substantially all of its employees to 
+work remotely. 
+The Group continues to monitor the situation and take appropriate actions in accordance with the recommendations and 
+requirements of relevant authorities. The extent to which the COVID-19 pandemic may impact the Group's operational and 
+financial performance remains uncertain and will depend on many factors outside the Group's control, including the timing, 
+extent, trajectory and duration of the pandemic, the emergence of new variants, the development, availability, distribution and 
+effectiveness of vaccines and treatments, the imposition of protective public safety measures, and the impact of the 
+pandemic on the global economy and demand for consumer products. Additional future impacts on the Group may include, 
+but are not limited to, material adverse effects on demand for the Group's products and services, the Group's supply chain 
+and sales and distribution channels, the Group's ability to execute its strategic plans, and the Group's profitability and cost 
+structure. 
+To the extent the COVID-19 pandemic adversely affects the Group's business, results of operations and financial condition, it 
+may also have the effect of heightening many of the other risks described in this Directors' Report. 
+Macroeconomic and Industry Risks 
+The Group's operations and performance depend significantly on global and regional economic conditions and 
+adverse economic conditions can materially adversely affect the Group's business, results of operations and financial 
+condition. 
+The Group has international operations with sales outside Ireland representing a majority of the Group's total net sales. In 
+addition, the Group's global supply chain is large and complex and a majority of the Group's supplier facilities, including 
+manufacturing and assembly sites, are located outside the U.S. As a result, the Group's operations and performance depend 
+significantly on global and regional economic conditions. 
+Adverse macroeconomic conditions, including inflation, slower growth or recession, new or increased tariffs and other 
+barriers to trade, changes to fiscal and monetary policy, tighter credit, higher interest rates, high unemployment and currency 
+fluctuations can materially adversely affect demand for the Group's products and services. In addition, consumer confidence 
+and spending can be adversely affected in response to financial market volatility, negative financial news, conditions in the 
+real estate and mortgage markets, declines in income or asset values, changes to fuel and other energy costs, labor and 
+healthcare costs and other economic factors. 
+In addition to an adverse impact on demand for the Group's products, uncertainty about, or a decline in, global or regional 
+economic conditions can have a significant impact on the Group's suppliers, contract manufacturers, logistics providers, 
+distributors, cellular network carriers and other channel partners. Potential effects include financial instability; inability to 
+obtain credit to finance operations and purchases of the Group's products; and insolvency. 
+A downturn in the economic environment can also lead to increased credit and collectibility risk on the Group's trade 
+receivables; the failure of derivative counterparties and other financial institutions; reduced liquidity; and declines in the fair 
+value of the Group's financial instruments. These and other economic factors can materially adversely affect the Group's 
+business, results of operations and financial condition. 
+The Group's business can be impacted by political events, trade and other international disputes, war, terrorism, 
+natural disasters, public health issues, industrial accidents and other business interruptions. 
+Political events, trade and other international disputes, war, terrorism, natural disasters, public health issues, industrial 
+accidents and other business interruptions can harm or disrupt international commerce and the global economy, and could 
+have a material adverse effect on the Group and its customers, suppliers, contract manufacturers, logistics providers, 
+distributors, cellular network carriers and other channel partners. 
+The Group has a large, global business, and the Group believes that it generally benefits from growth in international trade. 
+Trade and other international disputes can result in tariffs, sanctions, and other measures that restrict international trade and 
+can adversely affect the Group's business. Tariffs increase the cost of the Group's products and the components and raw 
+materials that go into making them. These increased costs adversely impact the gross margin that the Group earns on its 
+products. Tariffs can also make the Group's products more expensive for customers, which could make the Group's products 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 4 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+less competitive and reduce consumer demand. Countries may also adopt other measures, such as controls on imports or 
+exports of goods, technology or data, that could adversely impact the Group's operations and supply chain and limit the 
+Group's ability to offer its products and services as designed. These measures can require the Group to take various actions, 
+including changing suppliers, restructuring business relationships, and ceasing to offer third-party applications on its 
+platforms. Changing the Group's operations in accordance with new or changed trade restrictions can be expensive, time-
+consuming, disruptive to the Group's operations and distracting to management. Such restrictions can be announced with 
+little or no advance notice and the Group may not be able to effectively mitigate all adverse impacts from such measures. 
+Political uncertainty surrounding trade and other international disputes could also have a negative effect on consumer 
+confidence and spending, which could adversely affect the Group's business. 
+Many of the Group's operations and facilities, as well as critical business operations of the Group's suppliers and contract 
+manufacturers, are in locations that are prone to earthquakes and other natural disasters. In addition, such operations and 
+facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial 
+accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health 
+issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Group's control. Global climate 
+change is resulting in certain types of natural disasters occurring more frequently or with more intense effects. Such events 
+can make it difficult or impossible for the Group to manufacture and deliver products to its customers, create delays and 
+inefficiencies in the Group's supply and manufacturing chain, and result in slowdowns and outages to the Group's service 
+offerings. Following an interruption to its business, the Group can require substantial recovery time, experience significant 
+expenditures to resume operations, and lose significant sales. Because the Group relies on single or limited sources for the 
+supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any 
+negative consequences to the Group. 
+The Group's operations are also subject to the risks of industrial accidents at its suppliers and contract manufacturers. While 
+the Group's suppliers are required to maintain safe working environments and operations, an industrial accident could occur 
+and could result in disruption to the Group's business and harm to the Group's reputation. Major public health issues, 
+including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future adversely affect, the 
+Group due to their impact on the global economy and demand for consumer products; the imposition of protective public 
+safety measures, such as stringent employee travel restrictions and limitations on freight services and the movement of 
+products between regions; and disruptions in the Group's supply chain and sales and distribution channels, resulting in 
+interruptions of the supply of current products and delays in production ramps of new products. 
+While the Group maintains insurance coverage for certain types of losses, such insurance coverage may be insufficient to 
+cover all losses that may arise. 
+Global markets for the Group's products and services are highly competitive and subject to rapid technological 
+change, and the Group may be unable to compete effectively in these markets. 
+The Group's products and services are offered in highly competitive global markets characterized by aggressive price 
+competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short 
+product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, 
+rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. 
+The Group's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative 
+new products, services and technologies to the marketplace. The Group together with Apple Inc. designs and develops 
+nearly the entire solution for its products, including the hardware, operating system, numerous software applications and 
+related services. As a result, the Group together with Apple Inc. must make significant investments in R&D. There can be no 
+assurance these investments will achieve expected returns, and Apple Inc. and the Group may not be able to develop and 
+market new products and services successfully. 
+The Group together with Apple Inc. currently holds a significant number of patents, trademarks and copyrights and has 
+registered, and applied to register, additional patents, trademarks and copyrights. In contrast, many of the Group's 
+competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Group's 
+products and infringing on its intellectual property. Effective intellectual property protection is not consistently available in 
+every country in which the Group operates. If the Group and Apple Inc. is unable to continue to develop and sell innovative 
+new products with attractive margins or if competitors infringe on the Group's or Apple lnc.'s intellectual property, the Group's 
+ability to maintain a competitive advantage could be adversely affected. 
+The Group has a minority market share in the global smartphone, personal computer and tablet markets. The Group faces 
+substantial competition in these markets from companies that have significant technical, marketing, distribution and other 
+resources, as well as established hardware, software and digital content supplier relationships. In addition, some of the 
+Group's competitors have broader product lines, lower-priced products and a larger installed base of active devices. 
+Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 5 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. Some 
+of the markets in which the Group competes have from time to time experienced little to no growth or contracted overall. 
+Additionally, the Group faces significant competition as competitors imitate the Group's product features and applications 
+within their products or collaborate to offer solutions that are more competitive than those they currently offer. The Group also 
+expects competition to intensify as competitors imitate the Group's approach to providing components seamlessly within their 
+offerings or work collaboratively to offer integrated solutions. 
+The Group's services also face substantial competition, including from companies that have significant resources and 
+experience and have established service offerings with large customer bases. The Group competes with business models 
+that provide content to users for free. The Group also competes with illegitimate means to obtain third-party digital content 
+and applications. 
+The Group's business, results of operations and financial condition depend substantially on the Group's and Apple lnc.'s 
+ability to continually improve its products and services to maintain their functional and design advantages. There can be no 
+assurance the Group or Apple Inc. will be able to continue to provide products and services that compete effectively. 
+Business Risks 
+To remain competitive and stimulate customer demand, the Group must successfully manage frequent introductions 
+and transitions of products and services. 
+Due to the highly volatile and competitive nature of the industries in which the Group competes, the Group and Apple Inc. 
+must continually introduce new products, services and technologies, enhance existing products and services, effectively 
+stimulate customer demand for new and upgraded products and services, and successfully manage the transition to these 
+new and upgraded products and services. The success of new product and service introductions depends on a number of 
+factors, including timely and successful development, market acceptance, the Group's ability to manage the risks associated 
+with production ramp-up issues, the availability of application software for the Group's products, the effective management of 
+purchase commitments and inventory levels in line with anticipated product demand, the availability of products in 
+appropriate quantities and at expected costs to meet anticipated demand, and the risk that new products and services may 
+have quality or other defects or deficiencies. There can be no assurance the Group will successfully manage future 
+introductions and transitions of products and services. 
+The Group depends on component and product manufacturing and logistical services provided by outsourcing 
+partners, many of which are located outside of the U.S. 
+Substantially all of the Group's manufacturing is performed in whole or in part by outsourcing partners located primarily in 
+Asia. A significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often 
+in single locations. The Group has also outsourced much of its transportation and logistics management. While these 
+arrangements can lower operating costs, they also reduce the Group's direct control over production and distribution. Such 
+diminished control has from time to time and may in the future have an adverse effect on the quality or quantity of products 
+manufactured or services provided, or adversely affect the Group's flexibility to respond to changing conditions. Although 
+arrangements with these partners may contain provisions for product defect expense reimbursement, the Group generally 
+remains responsible to the consumer for warranty and out-of-warranty service in the event of product defects and 
+experiences an unanticipated product defect liability from time to time. While the Group relies on its partners to adhere to its 
+supplier code of conduct, violations of the supplier code of conduct occur from time to time and can materially adversely 
+affect the Group's business, reputation, results of operations and financial condition. 
+The Group relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many 
+components, and on outsourcing partners primarily located in Asia, for final assembly of substantially all of the Group's 
+hardware products. Any failure of these partners to perform can have a negative impact on the Group's cost or supply of 
+components or finished goods. In addition, manufacturing or logistics in these locations or transit to final destinations can be 
+disrupted for a variety of reasons, including natural and man-made disasters, information technology system failures, 
+commercial disputes, military actions, economic, business, labor, environmental, public health or political issues, or 
+international trade disputes. 
+The Group has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, 
+and has made prepayments to certain of its suppliers associated with long-term supply agreements. While these 
+arrangements help ensure the supply of components and finished goods, if these outsourcing partners or suppliers 
+experience severe financial problems or other disruptions in their business, such continued supply can be reduced or 
+terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 6 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+Future operating results depend upon the Group's ability to obtain components in sufficient quantities on 
+commercially reasonable terms. 
+Because the Group currently obtains certain components from single or limited sources, the Group is subject to significant 
+supply and pricing risks. Many components, including those that are available from multiple sources, are at times subject to 
+industry-wide shortages and significant commodity pricing fluctuations that can materially adversely affect the Group's 
+business, results of operations and financial condition. For example, the global semiconductor industry is experiencing high 
+demand and shortages of supply, which has adversely affected, and could materially adversely affect, the Group's ability to 
+obtain sufficient quantities of components and products on commercially reasonable terms or at all. While the Group has 
+entered into agreements for the supply of many components, there can be no assurance the Group will be able to extend or 
+renew these agreements on similar terms, or at all. Component suppliers may suffer from poor financial conditions, which can 
+lead to business failure for the supplier or consolidation within a particular industry, further limiting the Group's ability to 
+obtain sufficient quantities of components on commercially reasonable terms or at all. The effects of global or regional 
+economic conditions on the Group's suppliers, described in "The Group's operations and performance depend significantly 
+on global and regional economic conditions and adverse economic conditions can materially adversely affect the Group's 
+business, results of operations and financial condition," above, can also affect the Group's ability to obtain components. 
+Therefore, the Group remains subject to significant risks of supply shortages and price increases that can materially 
+adversely affect its business, results of operations and financial condition. 
+The Group's new products often utilize custom components available from only one source. When a component or product 
+uses new technologies, initial capacity constraints may exist until the suppliers' yields have matured or their manufacturing 
+capacities have increased. The continued availability of these components at acceptable prices, or at all, can be affected for 
+any number of reasons, including if suppliers decide to concentrate on the production of common components instead of 
+components customized to meet the Group's requirements. When the Group's supply of components for a new or existing 
+product has been delayed or constrained, or when an outsourcing partner has delayed shipments of completed products to 
+the Group, the Group's business, results of operations and financial condition have been adversely affected and future delays 
+or constraints could materially adversely affect the Group's business, results of operations and financial condition. The 
+Group's business and financial performance could also be materially adversely affected depending on the time required to 
+obtain sufficient quantities from the source, or to identify and obtain sufficient quantities from an alternative source. 
+The Group's products and services may be affected from time to time by design and manufacturing defects that could 
+materially adversely affect the Group's business and result in harm to the Group's reputation. 
+The Group offers complex hardware and software products and services that can be affected by design and manufacturing 
+defects. Sophisticated operating system software and applications, such as those offered by the Group, often have issues 
+that can unexpectedly interfere with the intended operation of hardware or software products. Defects can also exist in 
+components and products the Group purchases from third parties. Component defects could make the Group's products 
+unsafe and create a risk of environmental or property damage and personal injury. These risks may increase as the Group's 
+products are introduced into specialized applications, including healthcare. In addition, the Group's service offerings can have 
+quality issues and from time to time experience outages, service slowdowns or errors. As a result, the Group's services from 
+time to time have not performed as anticipated and may not meet customer expectations. There can be no assurance the 
+Group will be able to detect and fix all issues and defects in the hardware, software and services it offers. Failure to do so 
+can result in widespread technical and performance issues affecting the Group's products and services. In addition, the 
+Group can be exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, 
+property, plant and equipment, and/or intangible assets, and significant warranty and other expenses, including litigation 
+costs and regulatory fines. Quality problems can also adversely affect the experience for users of the Group's products and 
+services, and result in harm to the Group's reputation, loss of competitive advantage, poor market acceptance, reduced 
+demand for products and services, delay in new product and service introductions and lost sales. 
+The Group is exposed to the risk of write-downs on the value of its inventory and other assets, in addition to purchase 
+commitment cancellation risk. 
+The Group records a write-down for product and component inventories that have become obsolete or exceed anticipated 
+demand, or for which cost exceeds net realizable value. The Group also accrues necessary cancellation fee reserves for 
+orders of excess products and components. The Group reviews long-lived assets, including capital assets held at its 
+suppliers' facilities and inventory prepayments, for impairment whenever events or circumstances indicate the assets may not 
+be recoverable. If the Group determines that an impairment has occurred, it records a write-down equal to the amount by 
+which the carrying value of the asset exceeds its fair value. Although the Group believes its inventory, capital assets, 
+inventory prepayments and other assets and purchase commitments are currently recoverable, there can be no assurance 
+the Group will not incur write-downs, fees, impairments and other charges given the rapid and unpredictable pace of product 
+obsolescence in the industries in which the Group competes. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 7 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The Group orders components for its products and builds inventory in advance of product announcements and shipments. 
+Manufacturing purchase obligations cover the Group's forecasted component and manufacturing requirements, typically for 
+periods up to 150 days. Because the Group's markets are volatile, competitive and subject to rapid technology and price 
+changes, there is a risk the Group will forecast incorrectly and order or produce excess or insufficient amounts of 
+components or products, or not fully utilize firm purchase commitments. 
+The Group relies on access to third-party intellectual property, which may not be available to the Group on 
+commercially reasonable terms or at all. 
+The Group's products and services are designed to include intellectual property owned by third parties, which requires 
+licenses from those third parties. In addition, because of technological changes in the industries in which the Group currently 
+competes or in the future may compete, current extensive patent coverage and the rapid rate of issuance of new patents, the 
+Group's products and services may unknowingly infringe existing patents or intellectual property rights of others. From time to 
+time, the Group has been notified that it may be infringing certain patents or other intellectual property rights of third parties. 
+Based on experience and industry practice, the Group believes licenses to such third-party intellectual property can generally 
+be obtained on commercially reasonable terms. However, there can be no assurance the necessary licenses can be obtained 
+on commercially reasonable terms or at all. Failure to obtain the right to use third-party intellectual property, or to use such 
+intellectual property on commercially reasonable terms, can preclude the Group from selling certain products or services, or 
+otherwise have a material adverse impact on the Group's business, results of operations and financial condition. 
+The Group's future performance depends in part on support from third-party software developers. 
+The Group believes decisions by customers to purchase its hardware products depend in part on the availability of third-party 
+software applications and services. There can be no assurance third-party developers will continue to develop and maintain 
+software applications and services for the Group's products. If third-party software applications and services cease to be 
+developed and maintained for the Group's products, customers may choose not to buy the Group's products. 
+The Group believes the availability of third-party software applications and services for its products depends in part on the 
+developers' perception and analysis of the relative benefits of developing, maintaining and upgrading such software and 
+services for the Group's products compared to competitors' platforms, such as Android for smartphones and tablets, 
+Windows for personal computers and tablets, and PlayStation, Nintendo and Xbox for gaming platforms. This analysis may 
+be based on factors such as the market position of the Group and its products, the anticipated revenue that may be 
+generated, expected future growth of product sales, and the costs of developing such applications and services. 
+The Group's minority market share in the global smartphone, personal computer and tablet markets can make developers 
+less inclined to develop or upgrade software for the Group's products and more inclined to devote their resources to 
+developing and upgrading software for competitors' products with larger market share. When developers focus their efforts 
+on these competing platforms, the availability and quality of applications for the Group's devices can suffer. 
+The Group relies on the continued availability and development of compelling and innovative software applications for its 
+products. The Group's products and operating systems are subject to rapid technological change, and when third-party 
+developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of 
+these changes to deliver improved customer experiences and can operate incorrectly and can result in dissatisfied 
+customers. 
+The Group distributes third-party applications for its products through the App Store. For the vast majority of applications, 
+developers keep all of the revenue they generate on the App Store. The Group only retains a commission from sales of 
+applications and sales of digital services or goods within an application. From time to time, the Group has made changes to 
+its App Store, including actions taken in response to competition, market and legal conditions. The Group may make further 
+business changes in the future. New legislative initiatives, such as the proposed European Union ("EU") Digital Markets Act, 
+could, if enacted, require further changes. The Group is also subject to litigation and investigations relating to the App Store, 
+which have resulted in changes to the Group's business practices, and may in the future result in further changes. These 
+changes could include how and to what extent the Group charges developers for access to its platforms and manages 
+distribution of apps outside of the App Store. This could reduce the volume of sales, and the commission that the Group 
+earns on those sales, would decrease. If the rate of the commission that the Group retains on such sales is reduced, or if it is 
+otherwise narrowed in scope or eliminated, the Group's business, results of operations and financial condition could be 
+materially adversely affected. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 8 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+Failure to obtain or create digital content that appeals to the Group's customers, or to make such content available 
+on commercially reasonable terms, could have a material adverse impact on the Group's business, results of 
+operations and financial condition. 
+The Group contracts with numerous third parties to offer their digital content to customers. This includes the right to sell, or 
+offer subscriptions to, third-party content, as well as the right to incorporate specific content into the Group's own services. 
+The licensing or other distribution arrangements for this content can be for relatively short time periods and do not guarantee 
+the continuation or renewal of these arrangements on commercially reasonable terms, or at all. Some third-party content 
+providers and distributors currently or in the future may offer competing products and services, and can take actions to make 
+it difficult or impossible for the Group to license or otherwise distribute their content. Other content owners, providers or 
+distributors may seek to limit the Group's access to, or increase the cost of, such content. The Group may be unable to 
+continue to offer a wide variety of content at commercially reasonable prices with acceptable usage rules. 
+Some third-party digital content providers require the Group to provide digital rights management and other security 
+solutions. If requirements change, the Group may have to develop or license new technology to provide these solutions. 
+There can be no assurance the Group will be able to develop or license such solutions at a reasonable cost and in a timely 
+manner. 
+The Group depends on the performance of carriers, wholesalers, retailers and other resellers. 
+The Group distributes its products through cellular network carriers, wholesalers, retailers and resellers, many of whom 
+distribute products from competing manufacturers. The Group also sells its products and resells third-party products in most 
+of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government 
+customers through its retail and online stores and its direct sales force. 
+Some carriers providing cellular network service for the Group's products offer financing, installment payment plans or 
+subsidies for users' purchases of the device. There can be no assurance such offers will be continued at all or in the same 
+amounts. 
+The Group has invested and will continue to invest in programs to enhance reseller sales, including staffing selected 
+resellers' stores with Group employees and contractors, and improving product placement displays. These programs can 
+require a substantial investment while not assuring return or incremental sales. The financial condition of these resellers 
+could weaken, these resellers could stop distributing the Group's products, or uncertainty regarding demand for some or all of 
+the Group's products could cause resellers to reduce their ordering and marketing of the Group's products. 
+The Group's business and reputation are impacted by information technology system failures and network 
+disruptions. 
+The Group and its global supply chain are exposed to information technology system failures or network disruptions caused 
+by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, 
+physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions. System 
+redundancy and other continuity measures may be ineffective or inadequate, and the Group's or its vendors' business 
+continuity and disaster recovery planning may not be sufficient for all eventualities. Such failures or disruptions can adversely 
+impact the Group's business by, among other things, preventing access to the Group's online services, interfering with 
+customer transactions or impeding the manufacturing and shipping of the Group's products. These events could materially 
+adversely affect the Group's business, reputation, results of operations and financial condition. 
+Losses or unauthorized access to or releases of confidential information, including personal information, could 
+subject the Group to significant reputational, financial, legal and operational consequences. 
+The Group's business requires it to use and store confidential information, including personal information, with respect to the 
+Group's customers and employees. The Group devotes significant resources to network and data security, including through 
+the use of encryption and other security measures intended to protect its systems and data. But these measures cannot 
+provide absolute security, and losses or unauthorized access to or releases of confidential information occur and could 
+materially adversely affect the Group's business, reputation, results of operations and financial condition. 
+The Group's business also requires it to share confidential information with suppliers and other third parties. The Group relies 
+on global suppliers that are also exposed to ransomware and other malicious attacks that can disrupt business operations. 
+Although the Group takes steps to secure confidential information that is provided to or accessible by third parties working on 
+the Group's behalf, such measures are not always effective and losses or unauthorized access to or releases of confidential 
+information occur. Such incidents and other malicious attacks could materially adversely affect the Group's business, 
+reputation, results of operations and financial condition. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 9 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The Group experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis. 
+These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal 
+business operations, and could, among other things, impair the Group's ability to attract and retain customers for its products 
+and services, materially damage commercial relationships, and expose the Group to litigation or government investigations, 
+which could result in penalties, fines or judgments against the Group. Globally, attacks are expected to continue accelerating 
+in both frequency and sophistication with increasing use by actors of tools and techniques that are designed to circumvent 
+controls, avoid detection, and remove or obfuscate forensic evidence, all of which hinders the Group's ability to identify, 
+investigate and recover from incidents. 
+Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many 
+companies across various industries, the Group is at a relatively greater risk of being targeted because of its high profile and 
+the value of the confidential information it creates, owns, manages, stores and processes. 
+The Group has implemented systems and processes intended to secure its information technology systems and prevent 
+unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of 
+encryption and authentication technologies. As with all companies, these security measures may not be sufficient for all 
+eventualities and may be vulnerable to hacking, ransomware attacks, employee error, malfeasance, system error, faulty 
+password management or other irregularities. For example, third parties can fraudulently induce the Group's or its vendors' 
+employees or customers into disclosing user names, passwords or other sensitive information, which can, in turn, be used for 
+unauthorized access to the Group's or its vendors' systems and services. To help protect customers and the Group, the 
+Group deploys and makes available technologies like multifactor authentication, monitors its services and systems for 
+unusual activity and may freeze accounts under suspicious circumstances, which, among other things, can result in the delay 
+or loss of customer orders or impede customer access to the Group's products and services. 
+While the Group maintains insurance coverage that is intended to address certain aspects of data security risks, such 
+insurance coverage may be insufficient to cover all losses or all types of claims that may arise. 
+Investment in new business strategies and acquisitions could disrupt the Group's ongoing business, present risks not 
+originally contemplated and adversely affect the Group's business, reputation, results of operations and financial 
+condition. 
+The Group has invested, and in the future may invest, in new business strategies or acquisitions. Such endeavors may 
+involve significant risks and uncertainties, including distraction of management from current operations, greater-than-
+expected liabilities and expenses, economic, political, legal and regulatory challenges associated with operating in new 
+businesses, regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and 
+significant write-offs. Investment and acquisition transactions are exposed to additional risks, including failing to obtain 
+required regulatory approvals on a timely basis or at all, or the imposition of onerous conditions that could delay or prevent 
+the Group from completing a transaction or otherwise limit the Group's ability to fully realize the anticipated benefits of a 
+transaction. These new ventures are inherently risky and may not be successful. The failure of any significant investment 
+could adversely affect the Group's business, reputation, results of operations and financial condition. 
+The Group's retail stores have required and will continue to require a substantial investment and commitment of 
+resources and are subject to numerous risks and uncertainties. 
+The Group's retail stores have required substantial investment in equipment and leasehold improvements, information 
+systems, inventory and personnel. The Group also has entered into substantial lease commitments for retail space. Certain 
+stores have been designed and built to serve as high-profile venues to promote brand awareness. Because of their unique 
+design elements, locations and size, these stores require substantially more investment than the Group's more typical retail 
+stores. Due to the high cost structure associated with the Group's retail stores, a decline in sales or the closure or poor 
+performance of an individual store or multiple stores, including as a result of protective public safety measures in response to 
+the COVI D-19 pandemic, could result in significant lease termination costs, write-offs of equipment and leasehold 
+improvements and severance costs. 
+The Group's retail operations are subject to many factors that pose risks and uncertainties and could adversely impact the 
+Group's business, results of operations and financial condition, including macro-economic factors that could have an adverse 
+effect on general retail activity. Other factors include the Group's ability to: manage costs associated with retail store 
+construction and operation; manage relationships with existing retail partners; manage costs associated with fluctuations in 
+the value of retail inventory; and obtain and renew leases in quality retail locations at a reasonable cost. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 110 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+Legal and Regulatory Compliance Risks 
+The Group's business, results of operations and financial condition could be adversely impacted by unfavorable 
+results of legal proceedings or government investigations. 
+The Group is subject to various claims, legal proceedings and government investigations that have arisen in the ordinary 
+course of business and have not yet been fully resolved, and new matters may arise in the future. In addition, agreements 
+entered into by the Group sometimes include indemnification provisions which can subject the Group to costs and damages 
+in the event of a claim against an indemnified third party. The number of claims, legal proceedings and government 
+investigations involving the Group, and the alleged magnitude of such claims, proceedings and government investigations, 
+has generally increased over time and may continue to increase. 
+The Group together with Apple Inc. has faced and continues to face a significant number of patent claims relating to its 
+cellular-enabled products, and new claims may arise in the future. For example, technology and other patent-holding 
+companies frequently assert their patents and seek royalties and often enter into litigation based on allegations of patent 
+infringement or other violations of intellectual property rights. The Group together with Apple Inc. is vigorously defending 
+infringement actions in courts in several U.S. jurisdictions, as well as internationally in various countries. The plaintiffs in 
+these actions frequently seek injunctions and substantial damages. 
+Regardless of the merit of particular claims, defending against litigation or responding to government investigations can be 
+expensive, time-consuming, disruptive to the Group's operations and distracting to management. In recognition of these 
+considerations, the Group may enter into agreements or other arrangements to settle litigation and resolve such challenges. 
+There can be no assurance such agreements can be obtained on acceptable terms or that litigation will not occur. These 
+agreements can also significantly increase the Group's cost of sales and operating expenses and require the Group to 
+change its business practices and limit the Group's ability to offer certain products and services. 
+Except as described in the Notes to Consolidated Financial Statements in Note 13, "Commitments and Contingencies" under 
+the heading "Contingencies," in the opinion of management, there was not at least a reasonable possibility the Group may 
+have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted 
+legal and other claims. 
+The outcome of litigation or government investigations is inherently uncertain. If one or more legal matters were resolved 
+against the Group or an indemnified third party in a reporting period for amounts above management's expectations, the 
+Group's results of operations and financial condition for that reporting period could be materially adversely affected. Further, 
+such an outcome can result in significant compensatory, punitive or trebled monetary damages, disgorgement of revenue or 
+profits, remedial corporate measures or injunctive relief against the Group, and can require the Group to change its business 
+practices and limit the Group's ability to offer certain products and services, all of which could materially adversely affect the 
+Group's business, results of operations and financial condition. 
+While the Group maintains insurance coverage for certain types of claims, such insurance coverage may be insufficient to 
+cover all losses or all types of claims that may arise. 
+The Group is subject to complex and changing laws and regulations worldwide, which exposes the Group to 
+potential liabilities, increased costs and other adverse effects on the Group's business. 
+The Group's global operations are subject to complex and changing laws and regulations on subjects, including antitrust; 
+privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; product liability; 
+intellectual property ownership and infringement; digital platforms; Internet, telecommunications, and mobile communications; 
+media, television, film and digital content; availability of third-party software applications and services; labor and employment; 
+anticorruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti-money laundering; 
+foreign ownership and investment; tax; and environmental, health and safety, including electronic waste, recycling, and 
+climate change. 
+Compliance with these laws and regulations is onerous and expensive, increasing the cost of conducting the Group's global 
+operations. Changes to laws and regulations can adversely affect the Group's business by increasing the Group's costs, 
+limiting the Group's ability to offer a product or service to customers, requiring changes to the Group's supply chain and 
+business practices or otherwise making the Group's products and services less attractive to customers. The Group has 
+implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be 
+no assurance the Group's employees, contractors or agents will not violate such laws and regulations or the Group's policies 
+and procedures. If the Group is found to have violated laws and regulations, it could materially adversely affect the Group's 
+business, reputation, results of operations and financial condition. Regulatory changes and other actions that materially 
+adversely affect the Group's business may be announced with little or no advance notice and the Group may not be able to 
+effectively mitigate all adverse impacts from such measures. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 11 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The technology industry, including, in some instances, the Group, is subject to intense media, political and regulatory 
+scrutiny, which exposes the Group to increasing regulation, government investigations, legal actions and penalties. 
+From time to time, the Group has made changes to its App Store, including actions taken in response to competition, market 
+and legal conditions. The Group may make further business changes in the future. New legislative initiatives, such as the 
+proposed EU Digital Markets Act, could, if enacted, require further changes. These changes could include how and to what 
+extent the Group charges developers for access to its platforms and manages distribution of apps outside of the App Store. 
+The Group is also currently subject to antitrust investigations in various jurisdictions around the world, which can result in 
+legal proceedings and claims against the Group that could, individually or in the aggregate, have a materially adverse impact 
+on the Group's business, results of operations and financial condition. For example, the Group is the subject of investigations 
+in Europe and other jurisdictions relating to App Store terms and conditions. If such investigations result in adverse findings 
+against the Group, the Group could be exposed to significant fines and may be required to make changes to its App Store 
+business, all of which could materially adversely affect the Group's business, results of operations and financial condition. 
+The Group is also subject to litigation relating to the App Store, which has resulted in changes to the Group's business 
+practices, and may in the future result in further changes. 
+Further, the Group has commercial relationships with other companies in the technology industry that are or may become 
+subject to investigations and litigation that, if resolved against those other companies, could adversely affect the Group's 
+commercial relationships with those business partners and materially adversely affect the Group's business, results of 
+operations and financial condition. For example, the Group earns revenue from licensing arrangements with other companies 
+to offer their search services on the Group's platforms and apps, and certain of these arrangements are currently subject to 
+government investigations and legal proceedings. 
+There can be no assurance the Group's business will not be materially adversely affected, individually or in the aggregate, by 
+the outcomes of such investigations, litigation or changes to laws and regulations in the future. Changes to the Group's 
+business practices to comply with new laws and regulations or in connection with other legal proceedings could negatively 
+impact the reputation of the Group's products for privacy and security and otherwise adversely affect the experience for users 
+of the Group's products and services, and result in harm to the Group's reputation, loss of competitive advantage, poor 
+market acceptance, reduced demand for products and services, and lost sales. 
+The Group's business is subject to a variety of laws, rules, policies and other obligations regarding data protection. 
+The Group is subject to laws relating to the collection, use, retention, security and transfer of various types of personal 
+information. In many cases, these laws apply not only to third-party transactions, but also restrict transfers of personal 
+information among the Group. Several jurisdictions have passed laws in this area, and additional jurisdictions are considering 
+imposing additional restrictions or have laws that are pending. These laws continue to develop and may be inconsistent from 
+jurisdiction to jurisdiction. Complying with emerging and changing requirements causes the Group to incur substantial costs 
+and has required and may in the future require the Group to change its business practices. Noncompliance could result in 
+significant penalties or legal liability. 
+The Group makes statements about its use and disclosure of personal information through its privacy policy, information 
+provided on Apple lnc.'s website, press statements and other privacy notices provided to customers. Any failure by the Group 
+to comply with these public statements or with international privacy or data protection laws and regulations could result in 
+inquiries or proceedings against the Group by governmental entities or others. In addition to reputational impacts, penalties 
+could include ongoing audit requirements and significant legal liability. 
+In addition to the risks generally relating to the collection, use, retention, security and transfer of personal information, the 
+Group is also subject to specific obligations relating to information considered sensitive under applicable laws, such as health 
+data, financial data and biometric data. Health data is subject to additional privacy, security and breach notification 
+requirements, and the Group is subject to audit by governmental authorities regarding the Group's compliance with these 
+obligations. If the Group fails to adequately comply with these rules and requirements, or if health data is handled in a 
+manner not permitted by law or under the Group's agreements with healthcare institutions, the Group can be subject to 
+litigation or government investigations, and can be liable for associated investigatory expenses, and can also incur significant 
+fees or fines. 
+Financial data, such as payment card data, is also subject to additional requirements. Under payment card rules and 
+obligations, if cardholder information is potentially compromised, the Group can be liable for associated investigatory 
+expenses and can also incur significant fees or fines if the Group fails to follow payment card industry data security 
+standards. The Group could also experience a significant increase in payment card transaction costs or lose the ability to 
+process payment cards if it fails to follow payment card industry data security standards, which would materially adversely 
+affect the Group's business, reputation, results of operations and financial condition. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 112 
+
+Financial Risks 
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+The Group expects its net sales and results of operations to fluctuate. 
+The Group's profit margins vary across its products, services, geographic segments and distribution channels. For example, 
+the gross margins on the Group's products and services vary significantly and can change over time. The Group's gross 
+margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global 
+product pricing pressures and product pricing actions that the Group may take in response to such pressures; increased 
+competition; the Group's ability to effectively stimulate demand for certain of its products and services; compressed product 
+life cycles; potential increases in the cost of components, outside manufacturing services, and developing, acquiring and 
+delivering content for the Group's services; the Group's ability to manage product quality and warranty costs effectively; shifts 
+in the mix of products and services, or in the geographic, currency or channel mix, including to the extent that regulatory 
+changes require the Group to modify its product and service offerings; fluctuations in foreign exchange rates; and the 
+introduction of new products or services, including new products or services with higher cost structures. These and other 
+factors could have a materially adverse impact on the Group's results of operations and financial condition. 
+New product and service introductions can significantly impact net sales, cost of sales and operating expenses. Further, the 
+Group generates a significant portion of its net sales from a single product and a decline in demand for that product could 
+significantly impact net sales. The Group could also be subject to unexpected developments, such as lower-than-anticipated 
+demand for the Group's products or services, issues with new product or service introductions, information technology 
+system failures or network disruptions, or failure of one of the Group's logistics, components supply, or manufacturing 
+partners. 
+The Group's financial performance is subject to risks associated with changes in the value of the U.S. dollar relative 
+to local currencies. 
+The Group's primary exposure to movements in foreign currency exchange rates relates to non-U.S. dollar-denominated 
+sales, cost of sales and operating expenses worldwide. Gross margins on the Group's products in foreign countries and on 
+products that include components obtained from foreign suppliers could be materially adversely affected by foreign currency 
+exchange rate fluctuations. 
+The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Group's foreign 
+currency-denominated sales and earnings, and generally leads the Group to raise international pricing, potentially reducing 
+demand for the Group's products. In some circumstances, for competitive or other reasons, the Group may decide not to 
+raise international pricing to offset the U.S. dollar's strengthening, which would adversely affect the U.S. dollar value of the 
+gross margins the Group earns on foreign currency-denominated sales. 
+Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Group's foreign 
+currency-denominated sales and earnings, could cause the Group to reduce international pricing and incur losses on its 
+foreign currency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may 
+increase the Group's cost of product components denominated in those currencies, thus adversely affecting gross margins. 
+The Group uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to 
+fluctuations in foreign currency exchange rates. The use of such hedging activities may not be effective to offset any, or more 
+than a portion, of the adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the 
+hedges are in place. 
+The Group is exposed to credit risk and fluctuations in the values of its investment portfolio. 
+The Group's investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and 
+economic conditions, political risk, sovereign risk, interest rate fluctuations or other factors. As a result, the value and liquidity 
+of the Group's cash, cash equivalents, and marketable and non-marketable securities may fluctuate substantially. Therefore, 
+although the Group has not realized any significant losses on its cash, cash equivalents, and marketable and non-marketable 
+securities, future fluctuations in their value could result in significant losses and could have a material adverse impact on the 
+Group's results of operations and financial condition. 
+The Group is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and prepayments 
+related to long-term supply agreements, and this risk is heightened during periods when economic conditions 
+worsen. 
+The Group distributes its products through third-party cellular network carriers, wholesalers, retailers and resellers. The 
+Group also sells its products directly to small and mid-sized businesses and education, enterprise and government 
+customers. A substantial majority of the Group's outstanding trade receivables are not covered by collateral, third-party bank 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 113 
+
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+support or financing arrangements, or credit insurance, and a significant portion of the Group's trade receivables can be 
+concentrated within cellular network carriers or other resellers. The Group's exposure to credit and collectibility risk on its 
+trade receivables is higher in certain international markets and its ability to mitigate such risks may be limited. The Group also 
+has unsecured vendor non-trade receivables resulting from purchases of components by outsourcing partners and other 
+vendors that manufacture subassemblies or assemble final products for the Group. In addition, the Group has made 
+prepayments associated with long-term supply agreements to secure supply of inventory components. As of September 25, 
+2021, the Group's vendor non-trade receivables and prepayments related to long-term supply agreements were concentrated 
+among a few individual vendors located primarily in Asia. While the Group has procedures to monitor and limit exposure to 
+credit risk on its trade and vendor non-trade receivables, as well as long-term prepayments, there can be no assurance such 
+procedures will effectively limit its credit risk and avoid losses. 
+The Group is subject to changes in tax rates, the adoption of new local or international tax legislation and exposure 
+to additional tax liabilities. 
+The Group is subject to taxes in numerous foreign jurisdictions, including Ireland, where a number of the Group's subsidiaries 
+are organized. Due to economic and political conditions, tax laws and tax rates for income taxes and other non-income taxes 
+in various jurisdictions may be subject to significant change. The Group's effective tax rates are affected by changes in the 
+mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, 
+the introduction of new taxes, or changes in tax laws or their interpretation, including in Ireland. 
+The Group is also subject to the examination of its tax returns and other tax matters by tax authorities and governmental 
+bodies. The Group regularly assesses the likelihood of an adverse outcome resulting from these examinations to determine 
+the adequacy of its provision for taxes. There can be no assurance as to the outcome of these examinations. If the Group's 
+effective tax rates were to increase, particularly in Ireland, or if the ultimate determination of the Group's taxes owed is for an 
+amount in excess of amounts previously accrued, the Group's business, results of operations and financial condition could be 
+materially adversely affected. 
+The Group manages all its risk and uncertainties together with its ultimate parent Apple Inc .. 
+Refer to Note 7, "Financial Risk Management and Financial Instruments" of the consolidated financial statements for details 
+of the Group's financial risk management policies. 
+Dividends 
+Dividends of $24.8 billion (2020: $81.5 billion) were paid by the Group with $25.3 billion (2020: $81.8 billion) paid by the 
+Company to its ultimate parent Apple Inc. during the year. The dividends were fully subject to U.S. tax. 
+Books and Accounting Records 
+The directors believe that they have complied with the requirements of Section 281 to 285 of the Companies Act 2014 with 
+regard to accounting records by appointing accounting personnel with appropriate expertise and by providing adequate 
+resources to the finance function. These books and accounting records are maintained at the Company's registered office, 
+Hollyhill Industrial Estate, Hollyhill, Co. Cork, Ireland. 
+Directors, Secretary and Their Interests 
+The directors of the Company who served during the year were, Michael Joseph Boyd Jnr., Peter Denwood and Jeffrey 
+Myers. Jeffrey Myers resigned as director of the Company on 11 August 2021. Damon Nakamura served as an alternate 
+director for Michael Joseph Boyd Jnr during the year and resigned on 7 December 2020. Julia Macrae served as alternate 
+director for Jeffrey Myers effective 3 December 2020 until 10 August 2021. Effective 12 August 2021 Eamonn Clancy was 
+appointed alternate director for Michael Joseph Boyd Jnr. and Shane Collins was appointed alternate director for Peter 
+Denwood. The secretary of the Company during the year was Peter Denwood. Effective 13 August 2021 Shane Collins was 
+appointed as company secretary jointly with Peter Denwood. 
+The directors and secretaries who held office as at 25 September 2021 had no interests in shares in or debentures of the 
+Company or any related undertaking of the Company at the end of the financial year, or at the beginning of the financial year 
+(or date of appointment, if later) requiring disclosure in the Directors' Report under Section 329 of the Companies Act 2014. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 114 
+
+Directors' Compliance Statement 
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+As required by Section 225 of the Companies Act 2014, the directors acknowledge that they are responsible for securing the 
+Company's compliance with its relevant obligations (as defined in that legislation). The directors further confirm that a 
+compliance policy statement has been drawn up, and that appropriate arrangements and structures have been put in place 
+that are, in the directors opinion, designed to secure material compliance with the relevant obligations. A review of these 
+arrangements and structures has been conducted during the financial year to which the report relates. 
+Research and Development 
+The Group carries out research and development activities. 
+Relevant Audit Information 
+The directors believe that they have taken all steps that they ought to have taken as directors to make themselves aware of 
+any relevant audit information, as defined under Section 330 of the Companies Act 2014, and to establish that the Group's 
+statutory auditors are aware of that information. In so far as they are aware, there is no relevant audit information of which the 
+Group's statutory auditors are unaware. 
+Audit Committee 
+The directors of the Company decided not to establish an audit committee. The directors consider that the responsibilities 
+and functions of the audit committee under the requirements of the Companies Act 2014 are directly or indirectly performed 
+by the Apple Inc. Audit and Finance Committee. 
+Independent Auditor 
+Ernst & Young, Chartered Accountants, will continue in office in accordance with Section 383(2) of the Companies Act 2014. 
+On behalf of the board 
+Peter Denwood 
+Director 
+Date: 28January 2022 
+Michael Joseph Boyd Jnr. 
+Director 
+Date: 
+January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 115 
+
+Directors' Compliance Statement 
+Apple Operations International Limited 
+DIRECTORS' REPORT 
+As required by Section 225 of the Companies Act 2014, the directors acknowledge that they are responsible for securing the 
+Company's compliance with its relevant obligations (as defined in that legislation). The directors further confirm that a 
+compliance policy statement has been drawn up, and that appropriate arrangements and structures have been put in place 
+that are, in the directors opinion, designed to secure material compliance with the relevant obligations. A review of these 
+arrangements and structures has been conducted during the financial year to which the report relates. 
+Research and Development 
+The Group carries out research and development activities. 
+Relevant Audit Information 
+The directors believe that they have taken all steps that they ought to have taken as directors to make themselves aware of 
+any relevant audit information, as defined under Section 330 of the Companies Act 2014, and to establish that the Group's 
+statutory auditors are aware of that information. In so far as they are aware, there is no relevant audit information of which the 
+Group's statutory auditors are unaware. 
+Audit Committee 
+The directors of the Company decided not to establish an audit committee. The directors consider that the responsibilities 
+and functions of the audit committee under the requirements of the Companies Act 2014 are directly or indirectly performed 
+by the Apple Inc. Audit and Finance Committee. 
+Independent Auditor 
+Ernst & Young, Chartered Accountants, will continue in office in accordance with Section 383(2) of the Companies Act 2014. 
+On behalf of the board 
+Peter Denwood 
+Director 
+Date: 
+January 2022 
+Date: 28 January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 115 
+
+Apple Operations International Limited 
+DIRECTORS' RESPONSIBILITIES STATEMENT 
+The directors are responsible for preparing the directors' report and financial statements of the Company and the Group in 
+accordance with applicable law and regulations. 
+Irish company law requires the directors to prepare financial statements for each financial year which give a true and fair view 
+of the state of affairs of the Company and of the Group and of the profit or loss of the Group for that period. The directors 
+have prepared the consolidated financial statements of the Group in accordance with IFRS and those parts of the Companies 
+Act 2014 applicable to companies reporting under IFRS. The directors have elected to prepare the Company financial 
+statements in accordance with FRS 102 and the Companies Act 2014. 
+Under Irish company law, the directors must not approve the financial statements unless they are satisfied that they give a 
+true and fair view of the assets, liabilities, and financial position of the Company and of the Group as of the end of the 
+financial year, and the profit or loss of the Group taken as a whole for the financial year, and otherwise comply with the 
+Companies Act 2014. 
+In preparing these Group and Company financial statements, the directors are required to: 
+• 
+Select suitable accounting policies and then apply them consistently; 
+• 
+Make judgements and estimates that are reasonable and prudent; 
+• 
+State whether the financial statements have been prepared in accordance with applicable accounting 
+standards, identify those standards, and note the effect and reasons for any material departure from those 
+standards; and 
+• 
+Prepare the financial statements on a going concern basis unless it is inappropriate to presume that the 
+Company and the Group will continue in business. 
+The directors are responsible for ensuring that the Company keeps adequate accounting records which correctly explain and 
+record the transactions of the Company, enabling at any time the assets, liabilities, financial position and profit or loss of the 
+Company to be determined with reasonable accuracy, and ensuring that the Group and the Company financial statements 
+and directors' report comply with the Companies Act 2014 and enable them to be audited. They are also responsible for 
+taking such steps as are reasonably open to them to safeguard the assets of the Group and the Company and to prevent and 
+detect fraud and other irregularities. 
+On behalf of the board 
+Peter Denwood 
+Director 
+Date:28January 2022 
+Michael Joseph Boyd Jnr. 
+Director 
+Date: 
+January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 116 
+
+Apple Operations International Limited 
+DIRECTORS' RESPONSIBILITIES STATEMENT 
+The directors are responsible for preparing the directors' report and financial statements of the Company and the Group in 
+accordance with applicable law and regulations. 
+Irish company law requires the directors to prepare financial statements for each financial year which give a true and fair view 
+of the state of affairs of the Company and of the Group and of the profit or loss of the Group for that period. The directors 
+have prepared the consolidated financial statements of the Group in accordance with IFRS and those parts of the Companies 
+Act 2014 applicable to companies reporting under IFRS. The directors have elected to prepare the Company financial 
+statements in accordance with FRS 102 and the Companies Act 2014. 
+Under Irish company law, the directors must not approve the financial statements unless they are satisfied that they give a 
+true and fair view of the assets, liabilities, and financial position of the Company and of the Group as of the end of the 
+financial year, and the profit or loss of the Group taken as a whole for the financial year, and otherwise comply with the 
+Companies Act 2014. 
+In preparing these Group and Company financial statements, the directors are required to: 
+• 
+Select suitable accounting policies and then apply them consistently; 
+• 
+Make judgements and estimates that are reasonable and prudent; 
+• 
+State whether the financial statements have been prepared in accordance with applicable accounting 
+standards, identify those standards, and note the effect and reasons for any material departure from those 
+standards; and 
+• 
+Prepare the financial statements on a going concern basis unless it is inappropriate to presume that the 
+Company and the Group will continue in business. 
+The directors are responsible for ensuring that the Company keeps adequate accounting records which correctly explain and 
+record the transactions of the Company, enabling at any time the assets, liabilities, financial position and profit or loss of the 
+Company to be determined with reasonable accuracy, and ensuring that the Group and the Company financial statements 
+and directors' report comply with the Companies Act 2014 and enable them to be audited. They are also responsible for 
+taking such steps as are reasonably open to them to safeguard the assets of the Group and the Company and to prevent and 
+detect fraud and other irregularities. 
+On behalf of the board 
+Peter Denwood 
+Director 
+Date: 
+January 2022 
+Date: 28 January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements 116 
+
+EY 
+Building i3 better 
+working wcr!d 
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF APPLE OPERATIONS 
+INTERNATIONAL LIMITED 
+Report on the audit of the financial statements 
+Opinion 
+We have audited the financial statements of Apple Operations International Limited ('the Company') and 
+its subsidiaries ('the Group') for the year ended 25 September 2021, which comprise the Consolidated 
+Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance 
+Sheets, Consolidated Statements of Shareholders' Equity, Consolidated Statements of Cash Flows, 
+Company Statements of Financial Position, Company Statements of Changes in Equity and notes to the 
+financial statements, including the summary of significant accounting policies set out in note 1. The 
+financial reporting framework that has been applied in their preparation is Irish Law and as regards the 
+consolidated financial statements, International Financial Reporting Standards ('IFRS') as adopted by the 
+European Union and, as regards the Company financial statements, Accounting Standards including 
+FRS 102 The Financial Reporting Standard applicable in the UK and Republic of Ireland issued in the 
+United Kingdom by the Financial Reporting Council. 
+In our opinion: 
+• 
+the Group financial statements give a true and fair view of the assets, liabilities and financial position 
+of the Group as at 25 September 2021 and of its profit for the year then ended; 
+• 
+the Company financial statements give a true and fair view of the assets, liabilities and financial 
+position of the Company as at 25 September 2021; 
+• 
+the Group financial statements have been properly prepared in accordance with IFRS as adopted by 
+the European Union; 
+• 
+the Company financial statements have been properly prepared in accordance with FRS 102 The 
+Financial Reporting Standard applicable in the UK and Republic of Ireland; and 
+• 
+the Group financial statements and Company financial statements have been properly prepared in 
+accordance with the requirements of the Companies Act 2014. 
+Basis for opinion 
+We conducted our audit in accordance with International Standards on Auditing (Ireland) (ISAs (Ireland)) 
+and applicable law. Our responsibilities under those standards are further described in the Auditor's 
+Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the 
+Group and Company in accordance with ethical requirements that are relevant to our audit of financial 
+statements in Ireland, including the Ethical Standard issued by the Irish Auditing and Accounting 
+Supervisory Authority (IAASA), and we have fulfilled our other ethical responsibilities in accordance with 
+these requirements. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our opinion. 
+Conclusions relating to going concern 
+In auditing the financial statements, we have concluded that the directors' use of the going concern basis 
+of accounting in the preparation of the financial statements is appropriate. 
+17 
+
+EY 
+Building i3 better 
+working wcr!d 
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF APPLE OPERATIONS 
+INTERNATIONAL LIMITED (Continued) 
+Conclusions relating to going concern (continued) 
+Based on the work we have performed, we have not identified any material uncertainties relating to events 
+or conditions that, individually or collectively, may cast significant doubt on the Group's or the Company's 
+ability to continue as a going concern for a period of at least twelve months from the date when the financial 
+statements are authorised for issue. 
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in 
+the relevant sections of this report. However, because not all future events or conditions can be predicted, 
+this statement is not a guarantee as to the Group's or the Company's ability to continue as a going concern. 
+Other information 
+The directors are responsible for the other information. The other information comprises the information 
+included in the directors' report and directors' responsibilities statement. Our opinion on the financial 
+statements does not cover the other information and, except to the extent otherwise explicitly stated in our 
+report, we do not express any form of assurance conclusion thereon. 
+Our responsibility is to read the other information and, in doing so, consider whether the other information 
+is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise 
+appears to be materially misstated. If we identify such material inconsistencies or apparent material 
+misstatements, we are required to determine whether there is a material misstatement in the financial 
+statements or a material misstatement of the other information. If, based on the work we have performed, 
+we conclude that there is a material misstatement of this other information, we are required to report that 
+fact. 
+We have nothing to report in this regard. 
+Opinions on other matters prescribed by the Companies Act 2014 
+In our opinion, based solely on the work undertaken in the course of the audit, we report that: 
+• 
+the information given in the directors' report is consistent with the financial statements; and 
+• 
+the directors' report has been prepared in accordance with applicable legal requirements. 
+We have obtained all the information and explanations which, to the best of our knowledge and belief, are 
+necessary for the purposes of our audit. 
+In our opinion the accounting records of the Company were sufficient to permit the financial statements to 
+be readily and properly audited and the Company statement of financial position is in agreement with the 
+accounting records. 
+Matters on which we are required to report by exception 
+Based on the knowledge and understanding of the Company and its environment obtained in the course 
+of the audit, we have not identified material misstatements in the directors' report. 
+The Companies Act 2014 requires us to report to you if, in our opinion, the disclosures of directors' 
+remuneration and transactions required by sections 305 to 312 of the Act are not made. We have nothing 
+to report in this regard. 
+18 
+
+EY 
+Building i3 better 
+working wcr!d 
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF APPLE OPERATIONS 
+INTERNATIONAL LIMITED (Continued) 
+Respective responsibilities 
+Responsibilities of directors for the financial statements 
+As explained more fully in the directors' responsibilities statement set out on page 16, the directors are 
+responsible for the preparation of the financial statements in accordance with the applicable financial 
+reporting framework that give a true and fair view, and for such internal control as they determine is 
+necessary to enable the preparation of financial statements that are free from material misstatement, 
+whether due to fraud or error. 
+In preparing the financial statements, the directors are responsible for assessing the Group and the 
+Company's ability to continue as going concerns, disclosing, as applicable, matters related to going 
+concern and using the going concern basis of accounting unless management either intends to liquidate 
+the Group or the Company or to cease operations, or has no realistic alternative but to do so. 
+Auditor's responsibilities for the audit of the financial statements 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are 
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes 
+our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit 
+conducted in accordance with ISAs (Ireland) will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, 
+they could reasonably be expected to influence the economic decisions of users taken on the basis of 
+these financial statements. 
+A further description of our responsibilities for the audit of the financial statements is located on the 
+This description forms part of our auditor's report. 
+The purpose of our audit work and to whom we owe our responsibilities 
+Our report is made solely to the Company's members, as a body, in accordance with section 391 of the 
+Companies Act 2014. Our audit work has been undertaken so that we might state to the Company's 
+members those matters we are required to state to them in an auditor's report and for no other purpose. 
+To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Company and the Company's members, as a body, for our audit work, for this report, or for the opinions 
+we have formed. 
+George Deegan 
+for and on behalf of 
+Ernst & Young Chartered Accountants and Statutory Audit Firm 
+Dublin 
+31 January 2022 
+19 
+
+Apple Operations International Limited 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+Years ended 
+25 September 
+26 September 
+Note 
+2021 
+2020 
+Net sales 
+Cost of sales 
+Gross margin 
+Operating expenses: 
+Research and development 
+Selling, general and administrative 
+Total operating expenses 
+Operating income 
+Other income/(expense),net 
+Income before provision for income taxes 
+Provision for income taxes 
+Net income 
+3 
+6 
+See accompanying notes to consolidated financial statements. 
+$'m 
+$'m 
+------
+211,058 
+148,168 
+(121,542) 
+(90,227) 
+__ 
+....;... __ 
+.;.. 
+89,516 
+57,941 
+(12,497) 
+(15,489) 
+(9,795) 
+(9,133) 
+(22,292) 
+(24,622) 
+67,224 
+33,319 
+518 
+489 
+67,742 
+33,808 
+(11,575) 
+(6,149) 
+56,167 
+27,659 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 20 
+
+Apple Operations International Limited 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+Years ended 
+25 September 
+26 September 
+Net income 
+Other comprehensive income/(loss) which will be reclassified to the Statements of 
+Operations in subsequent periods: 
+Change in foreign currency translation, net of tax 
+Change in unrealised gains/losses on derivative instruments, net of tax: 
+Change in unrealised gains/losses on marketable securities, net of tax: 
+Other comprehensive income/(loss) which will not be reclassified to the Statements of 
+Operations in subsequent periods: 
+Change in fair value of retirement benefit obligations, net of tax: 
+Total other comprehensive income/(loss) 
+Total comprehensive income 
+See accompanying notes to consolidated financial statements. 
+2021 
+2020 
+$'m 
+$'m 
+------
+56,167 
+27,659 
+327 
+602 
+(37) 
+(22) 
+870 
+57,037 
+42 
+(765) 
+115 
+------
+(608) 
+27,051 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 21 
+
+Apple Operations International Limited 
+CONSOLIDATED BALANCE SHEETS 
+Current assets: 
+Cash and cash equivalents 
+Marketable securities 
+Accounts receivable, net 
+Inventories 
+Other current assets 
+Total current assets 
+Non-current assets: 
+Marketable securities 
+Property, plant and equipment, net 
+Deferred tax asset 
+Other non-current assets 
+Total non-current assets 
+Total assets 
+Current liabilities: 
+Accounts payable 
+Other current liabilities 
+Deferred revenue 
+Total current liabilities 
+Non-current liabilities: 
+Other non-current liabilities 
+Total non-current liabilities 
+Total liabilities 
+Shareholders' equity: 
+Called up share capital presented as equity 
+Retained earnings 
+Other reserves 
+Total shareholders' equity 
+Total liabilities and shareholders' equity 
+As of 25 
+September 
+2021 
+$'m 
+Note 
+7 
+16,829 
+7 
+6,404 
+4/7 
+31,563 
+4,709 
+4 
+33,285 
+92,790 
+7 
+12,459 
+8 
+14,948 
+6 
+7,762 
+4 
+12,608 
+47,777 
+140,567 
+4/7 
+43,030 
+19,452 
+3,309 
+65,791 
+16,002 
+16,002 
+81,793 
+10 
+58,039 
+735 
+58,774 
+140,567 
+See accompanying notes to consolidated financial statements. 
+On behalf of the board 
+Peter Denwood 
+Director 
+Date:28 January 2022 
+Michael Joseph Boyd Jnr. 
+Director 
+Date: 
+January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 22 
+As of 26 
+September 
+2020 
+$'m 
+8,613 
+4,267 
+20,166 
+2,536 
+6,159 
+41,741 
+14,352 
+13,853 
+10,931 
+5,547 
+44,683 
+86,424 
+30,067 
+16,288 
+2,642 
+48,997 
+11,064 
+11,064 
+60,061 
+26,625 
+(262) 
+26,363 
+86,424 
+
+Current assets: 
+Cash and cash equivalents 
+Marketable securities 
+Accounts receivable, net 
+Inventories 
+Other current assets 
+Total current assets 
+Non-current assets: 
+Marketable securities 
+Property, plant and equipment, net 
+Deferred tax asset 
+Other non-current assets 
+Total non-current assets 
+Total assets 
+Current liabilities: 
+Accounts payable 
+Other current liabilities 
+Deferred revenue 
+Total current liabilities 
+Non-current liabilities: 
+Other non-current liabilities 
+Total non-current liabilities 
+Total liabilities 
+Shareholders' equity: 
+Apple Operations International Limited 
+CONSOLIDATED BALANCE SHEETS 
+Called up share capital presented as equity 
+Retained earnings 
+Other reserves 
+Total shareholders' equity 
+Total liabilities and shareholders' equity 
+Note 
+7 
+7 
+4/7 
+4 
+7 
+8 
+6 
+4 
+4/7 
+10 
+See accompanying notes to consolidated financial statements. 
+On behalf of the board 
+Peter Denwood 
+Director 
+As of 25 
+September 
+2021 
+$'m 
+16,829 
+6,404 
+31,563 
+4,709 
+33,285 
+92,790 
+12,459 
+14,948 
+7,762 
+12,608 
+47,777 
+140,567 
+43,030 
+19,452 
+3,309 
+65,791 
+16,002 
+16,002 
+81,793 
+58,039 
+735 
+58,774 
+140,567 
+Date: 
+January 2022 
+Date: 28January 2022 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 22 
+As of 26 
+September 
+2020 
+$'m 
+8,613 
+4,267 
+20,166 
+2,536 
+6,159 
+41,741 
+14,352 
+13,853 
+10,931 
+5,547 
+44,683 
+86,424 
+30,067 
+16,288 
+2,642 
+48,997 
+11,064 
+11,064 
+60,061 
+26,625 
+(262) 
+26,363 
+86,424 
+
+Apple Operations International Limited 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+Balances as of 28 September 2019 
+Net income 
+Other comprehensive income/(loss) 
+Dividends* 
+Tax benefit from equity awards 
+Capital contribution 
+Balances as of 26 September 2020 
+Net income 
+Other comprehensive income/(loss) 
+Dividends* 
+Tax benefit from equity awards 
+Balances as of 25 September 2021 
+Called up 
+share capital 
+presented as 
+equity 
+$'m 
+* Dividend per share for 2021 was $2,475,291 (2020: $8,149,256) 
+Retained 
+earnings 
+$'m 
+------
+80,459 
+27,659 
+(81,493) 
+26,625 
+56,167 
+(24,753) 
+58,039 
+Other 
+reserves 
+$'m 
+-----
+155 
+(608) 
+124 
+67 
+(262) 
+870 
+127 
+735 
+See accompanying notes to consolidated financial statements. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 23 
+Total 
+shareholders' 
+equity 
+$'m 
+80,614 
+27,659 
+(608) 
+(81,493) 
+124 
+67 
+26,363 
+56,167 
+870 
+(24,753) 
+127 
+58,774 
+
+Apple Operations International Limited 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+Years ended 
+Cash and cash equivalents, beginning balances 
+Operating activities: 
+Net income 
+Adjustments to reconcile net income to cash generated by operating activities: 
+Depreciation and amortisation 
+Deferred income tax expense 
+Other 
+Changes in operating assets and liabilities: 
+Accounts receivable, net 
+Other current and non-current assets 
+Accounts payable 
+Deferred revenue 
+Other current and non-current liabilities 
+Cash generated by operating activities 
+Investing activities: 
+Purchases of marketable securities 
+Proceeds from maturities of marketable securities 
+Proceeds from sales of marketable securities 
+Payments for acquisition of property, plant and equipment 
+Other 
+Cash generated by investing activities 
+Financing activities: 
+Payments for dividends 
+Payments for lease liabilities 
+Cash used in financing activities 
+lncrease/(Decrease) in cash and cash equivalents 
+Cash and cash equivalents, ending balances 
+Supplemental cash flow disclosure: 
+Cash paid for income taxes, net 
+25 September 
+2021 
+$'m 
+8,613 
+56,167 
+6,577 
+2,980 
+(440) 
+(11,343) 
+(38,823) 
+12,864 
+1,093 
+8,661 
+37,736 
+(11,425) 
+4,026 
+7,830 
+(5,278) 
+677 
+(4,170) 
+(24,753) 
+(597) 
+(25,350) 
+8,216 
+16,829 
+4,444 
+See accompanying notes to consolidated financial statements. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 24 
+26 September 
+2020 
+$'m 
+17,530 
+27,659 
+6,888 
+3,556 
+(131) 
+5,331 
+2,683 
+2,057 
+923 
+(444) 
+48,522 
+(11,810) 
+10,455 
+11,839 
+(3,032) 
+(1,856) 
+5,596 
+(62,470) 
+(565) 
+(63,035) 
+(8,917) 
+8,613 
+2,385 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 1 - Summary of Significant Accounting Policies 
+Statement of Compliance 
+The consolidated financial statements of the Group have been prepared in accordance with IFRS and those parts of the 
+Companies Act 2014 applicable to companies reporting under IFRS. 
+Basis of Presentation and Preparation 
+The consolidated financial statements are presented in U.S. dollars ("$") which is the Company's functional and 
+presentational currency. The consolidated financial statements, which are rounded to the nearest million (unless otherwise 
+stated) have been prepared under the historical cost convention, except where assets and liabilities are stated at fair value in 
+accordance with relevant accounting policies. 
+The consolidated financial statements are comprised of Apple Operations International Limited and its subsidiaries. 
+Subsidiaries are included in the Group financial statements from the date on which control over the operating and financing 
+policies is obtained, and cease to be consolidated from the date on which control is transferred out of the Group. The Group 
+controls an entity when it is exposed to, or has the rights to, variable returns from its involvement with the entity and has the 
+ability to affect those returns through its power over the entity. All intercompany transactions, balances and unrealised gains/ 
+losses on transactions between Group subsidiaries are eliminated on consolidation. 
+The Group's financial year is the 52 or 53 week period that ends on the last Saturday of September. The Group's fiscal years 
+2021 and 2020 spanned 52 weeks. 
+Refer to Note 1, "Summary of Significant Accounting Policies" in the Company's financial statements for details relating to the 
+basis of preparation for the Company. 
+All of the entities incorporated in Ireland, as set out in Note 2, have availed of the exemption under the respective Irish 
+company law requirements of Section 357 of the Companies Act 2014 from the requirement to annex their statutory financial 
+statements to their annual return. All of the entities incorporated in Germany (except Shazam Media Services GmbH), as set 
+out in Note 2, have availed of the exemptions regarding (i) the preparation, audit and disclosure of individual financial 
+statements pursuant to Section 264 (3) German Commercial Code (for entities in the legal form of a GmbH) or Section 264b 
+German Commercial Code (for entities in the legal form of a KG where not at least one general partner qualifies as natural 
+person) and (ii) if and to the extent required, the preparation, audit and disclosure of consolidated accounts pursuant to 
+Section 291 German Commercial Code. 
+Judgements and Key Sources of Estimation Uncertainty 
+The preparation of financial statements and related disclosures in conformity with IFRS require the Group's management to 
+make judgments, assumptions and estimates that affect the amounts reported. Management bases its estimates on historical 
+experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form 
+the basis for making judgments about the carrying values of assets and liabilities. The significant estimates and assumptions 
+used in the preparation of the Group's financial statements that could result in a material adjustment are outlined in the 
+relevant notes. Actual results could differ materially from those estimated. 
+Recently Adopted Accounting Pronouncements 
+In 2021, the Group adopted the amendment to IAS 1 Presentation of Financial Statements, Disclosure of Accounting 
+Policies. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 25 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Revenue Recognition 
+Net sales consist of revenue from the sale of iPhone, Mac, iPad, services and other products. The Group recognises revenue 
+at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. For 
+most of the Group's products net sales, control transfers when products are shipped. For the Group's services net sales, 
+control transfers over time as services are delivered. Payment for products and services net sales is collected within a short 
+period of time following transfer of control or commencement of delivery of services, as applicable. 
+The Group records reductions to products net sales related to future product returns, price protection and other customer 
+incentive programs based on the Group's expectations and historical experience. 
+For arrangements with multiple performance obligations, which represent promises within an arrangement that are capable of 
+being distinct, the Group allocates revenue to all distinct performance obligations based on their relative stand-alone selling 
+prices ("SSP"). When available, the Group uses observable prices to determine the SSP. When observable prices are not 
+available, SSPs are established that reflect the Group's best estimates of what the selling prices of the performance 
+obligations would be if they were sold regularly on a stand-alone basis. The Group's process for estimating SSPs without 
+observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to 
+each performance obligation including, where applicable, prices charged by the Group for similar offerings, market trends in 
+the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance 
+obligation. 
+The Group has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, 
+Mac, iPad and certain other products. The first performance obligation, which represents the substantial portion of the 
+allocated sales price, is the hardware and bundled software delivered at the time of sale. The second performance obligation 
+is the right to receive certain product-related bundled services, which include iCloud, Siri and Maps. The third performance 
+obligation is the right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the 
+software bundled with each device. Because the Group lacks observable prices for the undelivered performance obligations, 
+the allocation of revenue is based on the Group's estimated SSPs. Revenue allocated to the delivered hardware and bundled 
+software is recognised when control has transferred to the customer, which generally occurs when the product is shipped. 
+Revenue allocated to the product-related bundled services and unspecified software upgrade rights is deferred and 
+recognised on a straight-line basis over the estimated period they are expected to be provided. Costs incurred to provide 
+product-related bundled services and unspecified software upgrade rights are recognised as cost of sales as incurred. 
+For the sale of third-party products where the Group obtains control of the product before transferring it to the customer, the 
+Group recognises revenue based on the gross amount billed to customers. The Group considers multiple factors when 
+determining whether it obtains control of third-party products including, but not limited to, evaluating if it has the ability to 
+establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring 
+acceptability of the product. For third-party applications sold through the App Store and certain digital content sold through 
+the Group's other digital content stores, the Group does not obtain control of the product before transferring it to the 
+customer. Therefore, the Group accounts for such sales on a net basis by recognising in services net sales only the 
+commission it retains. 
+The Group records revenue net of taxes collected from customers that are remitted to governmental authorities, with the 
+collected taxes recorded within other current liabilities until remitted to the relevant government authority. 
+Share-Based Compensation 
+The Group generally measures share-based compensation based on the closing price of Apple lnc.'s common stock on the 
+date of grant, and recognises expense on a straight-line basis for its estimate of equity awards that will ultimately vest. 
+Further information regarding share-based compensation can be found in Note 5, "Share-Based Compensation". 
+Income Taxes 
+Uncertain tax positions are measured based on the single best estimate. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 26 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Financial Instruments 
+All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents. 
+The Group accounts for its marketable debt securities at fair value through other comprehensive income and its equity 
+securities at fair value through profit and loss. 
+All derivative instruments are recorded in the Consolidated Balance Sheets at fair value. The accounting treatment for 
+derivative gains and losses is based on intended use and hedge designation. 
+For derivative instruments that hedge the exposure to variability in expected future cash flows that are designated as cash 
+flow hedges, the effective portion of the gain or loss on the derivative instrument is reported as a component of other 
+comprehensive income ("OCI") in the Consolidated Statements of Shareholder's Equity and reclassified into the Consolidated 
+Statements of Operations in the same period or periods during which the hedged transaction affects earnings. The ineffective 
+portion of the gain or loss on the derivative instrument, if any, is recognised in the Consolidated Statements of Operations in 
+the current period. To receive hedge accounting treatment, cash flow hedges must be highly effective in offsetting changes to 
+expected future cash flows on hedged transactions. For options designated as cash flow hedges, changes in the time value 
+are excluded from the assessment of hedge effectiveness. 
+For derivative instruments that hedge the exposure to changes in foreign currency exchange rates used for translation of the 
+net investment in a foreign operation and that are designated as a net investment hedge, the net gain or loss on the effective 
+portion of the derivative instrument is reported in the same manner as a foreign currency translation adjustment. For forward 
+exchange contracts designated as net investment hedges, the Group excludes changes in fair value relating to changes in 
+the forward carry component from its definition of effectiveness. Accordingly, any gains or losses related to this forward carry 
+component are recognised in earnings in the current period. Derivatives that do not qualify as hedges are adjusted to fair 
+value through earnings in the current period. 
+Property, Plant and Equipment 
+Depreciation on property, plant and equipment is recognised on a straight-line basis over the estimated useful lives of the 
+assets, which for buildings is the lesser of 40 years or the remaining life of the underlying building; between one and five 
+years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease 
+term or useful life for leasehold improvements. Capitalised costs related to internal-use software are amortised on a straight-
+line basis over the estimated useful lives of the assets, which range from five to seven years. 
+Leases 
+Right-of-use (''ROU") assets are initially measured at cost and subsequently measured applying the cost model. Depreciation 
+is charged to the Consolidated Statements of Operations on a straight-line basis over the term of the lease. 
+Inventories 
+Inventories are measured using the first-in, first-out method. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 27 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 2 - Other Statutory Information 
+Auditors' Remuneration 
+The following table shows the fees* paid to the independent auditor in 2021 and 2020: 
+Years ended 
+Audit of Financial Statements 
+Other Assurance Seivices 
+Tax Advisory Seivices 
+*This excludes auditors' remuneration borne by Apple Inc. on behalf of the Group. 
+Staff Numbers and Costs 
+The following table shows the payroll costs incurred in 2021 and 2020: 
+25 September 
+2021 
+$'000 
+416 
+316 
+759 
+1,491 
+26 September 
+2020 
+$'000 
+846 
+144 
+440 
+1,430 
+Years ended 
+Wages and Salaries 
+Social Welfare costs 
+Share based payments (Note 5, "Share-Based Compensation") 
+Pension costs 
+The average number of persons employed by the Group in 2021 was 52,563 (2020: 51,255). 
+25 September 
+2021 
+$'m 
+3,884 
+510 
+1,185 
+240 
+5,819 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 28 
+26 September 
+2020 
+$'m 
+3,308 
+418 
+941 
+175 
+4,842 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Group Undertakings 
+The following table shows the Group's undertakings as of 25 September 2021: 
+• Name.of company ···································••·i=iegistereci·oitice ....................................................................................... 
+• Nature of business 
+........................... 
+•Akane LLC 
+····································IcorporaiionTrust Center, 
+•• 1209 Orange Street, 
+····························•·Ho1c:iing.coriipany·· 
+•·;;.ppie.Asia.Limiieei 
+•• Wilmington DE 19801, 
+•• United States 
+Suiies 2401 ~2412, Tower One, 
+•• Times Square, Causeway Bay, 
+•• Hong Kong 
+Corporaiion Trust Center, 
+•• 1209 Orange Street, 
+•• Wilmington DE 19801, 
+•• United States 
+........................ 
+>Building 6, 88 Maji Road (District C), 
+•• China (Shanghai), 
+. ...................................................................................... . 
+• Apple Computer Trading (Shanghai) 
+• Co., Ltd.* 
+•• Pilot Free Trade Zone, 
+••China 
+··············••i·;;.;;ci· Mo.kio siree164:············ 
+•• 569086, 
+••Singapore 
+• Sales, distribution and related services 
+~--··················· 
+··············•• uniis·2,·4,·s,·6 on.Level 20:····· 
+•••••••••••••••••••❖•••••••••••••••••••••••••••••••••• 
+• Apple Electronics Products 
+• Commerce (Beijing) Company 
+•Limited* 
+Office Tower E1, The Towers, 
+•• Oriental Plaza, No. 1 East Chang An 
+••Avenue, 
+•• Dong Cheng District, Beijing, 100738, 
+••china 
+• Retail company 
+.......................................................... ··················t1 giti·i=1oor:·concoreie·f ower c:··· 
+............................................. 
+• Apple India Private Limited * 
+•·;;.ppie.korea·Limi1eei 
+•· UB City No. 24, Vittal Mallya Road, 
+•• Bengaluru, Karnataka 560001, 
+••India 
+··································•• Fioppongi.Hiiis,········ 
+6-10-1 Roppongi, 
+•• Minato-ku, 
+Tokyo 106-6140, 
+••Japan 
+•••••••••••••••••••••••••••••••••••• 3901· (ASEM.T owei- Samseong-dong), 
+•• 517 Yeongdong-daero, 
+•• Gangnam-gu 
+••Seoul, 
+•• Republic of Korea 
+lsusiness Centres World FZE 
+•• N. 125, JAFZA View 18 & 19, 
+•• 1
+st Floor, 
+P.O. Box 262746 
+•• Jebel Ali Free Zone, 
+•• Dubai, United Arab Emirates 
+B&M ConsultancySe~ices·Sdn. Bhd., 
+•• Level 21, Suite 21.01, 
+•• The Gardens South Tower, 
+•• Mid Valley City, Lingkaran Syed Putra, 
+•• 59200 Kuala Lumpur, 
+• Sales, distribution, manufacturing and 
+• related services 
+···•·sa1es,·eiisiribu1ion ariei. re1aieei.seivices··· 
+fy1§1§y!3i§ 
+.. 
+•· Hollyhill Industrial Estate, Hollyhill, 
+••Cork, 
+........ {l.rEl.lr;1ri<:J .. 
+••••••••••••••••••••• ••• Procu/e;;:;enl:saies and manufacturing 
+• support services 
+.................................................................... 
+• Apple Operations Europe Limited 
+•· Hollyhill Industrial Estate, Hollyhill, 
+••Cork, 
+•• Ireland 
+tAppie dm5R 
+Kaiharlna:van:sora:strasse 3: 
+• 
+•• 80333, 
+• 
+•• Munich 
+•... ·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.·.•···Qfrrn?6Y .... ··· 
+. ................................... . 
+• Procurement, manufacturing and 
+• distribution 
+Tsaies support, marketing and related 
+• services 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 29 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Name citi::cinii>ariy 
+(Appie.Piylimiied·· 
+···································~····································· ....................................................................................... 
+f ,;pp;e·ae1a;;· e;;;;;,;;·umiied •• 
+... Appie saies • i riiernai1onai • i:.irii1ieei • • 
+... Appie saies • i reiand • Limlieei • • 
+>Appie Trading (Shanghai) Company 
+•• Limited* 
+l,0;;1e·0ene1u,·s:v:···· 
+l,p;;;e Distab,boa latemaboaal 
+•• Limited 
+• Registered office 
+• Nature of business 
+••❖•••••••••••••••••••••••• •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+• Levels 2-8, 
+• Sales, distribution and related services 
+• 20 Martin Place, 
+• Sydney NSW 2000, 
+•Australia 
+Hoiiyiiill industrial Estate, Hollyhill, 
+.Cork, 
+• Ireland 
+Hoiiyiiill industrial Estate, Hollyhill, 
+.Cork, 
+• Ireland 
+••❖•••••••••••••••••• 
+• Hollyhill Industrial Estate, Hollyhill, 
+•Cork, 
+• Ireland 
+••❖••••••••••••••• 
+• Level 15, 16 (actual Level 13, 14), 
+• 1249 Century Avenue 
+• China (Shanghai) Pilot Free Trade 
+Zone, 
+•China 
+Teidsepiein.29, 
+• Third Floor, 
+• 1017 PS, 
+• Amsterdam, 
+• Netherlands 
+TH~iiyhillindustrial Estate, Hollyhill, 
+•Cork, 
+• Ireland 
+......................................................................................... 
+• Holding company and retail business 
+.......................................................... 
+• Sales support, marketing, related services 
+• and holding company 
+............................................... 
+• Retail company 
+Tsai~s support, marketing and related 
+• services 
+················•Leidsep1ein29,····· 
+• Third Floor, 
+• 1017 PS, Amsterdam, 
+• Netherlands 
+c/o TMF Group, 8th Floor, 20 
+Reiail company 
+f ,;pp;e·ae1a;;· ccaace eu•1;c•· ················:~~~~f ~:c:,:::d:.ec•A.•AB··:·aeiaii oompaay··· 
+• 75009, Paris, 
+l,pp;e·ae1a;;·spa;;:;;·s.cu:·· 
+.•. .F. r.a.rl.C.El ... 
+• Corso Vercelli 40, 
+20145, 
+•Milan, 
+•Italy 
+·• Ttiurn:u;;ei:T axis 
+•Platz 6, 
+60313 Frankfurt 
+• Am Main, Germany 
+············•·ca:iie·rrfricipe·deverciara·112:············ 
+l,pp;e·ae;a;;·s;;;;,ec,aaa·GmbH 
+•4a planta, 
+• 28002, Madrid, 
+··············~Pi:li~ ............................................................. . 
+• c!o TMF Services SA, Zurich Branch, 
+f ,pp;e ae1a;;0e;g;;;m av 
+l,pp;e·ae;a;;·Nelhec;aaas·sv 
+• Talstrasse 83, 8001, 
+Zurich 
+...............•. $\f\/it:z:ElrlcJ.ric:J .. 
+• Havenlaan 86C, 
+• Box 204 Avenue du Port, 
+• B-1000 Brussels, 
+•Belgium 
+............................................ 
+• Luna ArenA 
+• Herikerbergweg 238, 
+1101 CM, 
+• Amsterdam, 
+• Netherlands 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 30 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+••·Naiiieoi i::cinii>ariy················ 
+iAppi~.i=i~1a1i·s~~d~n As··· 
+1Liffiii9d Uab;1;1y Company Apple 
+,:Rus * 
+I ... i. ;;;;;;;; Liffiiied 
+irf Appi~ iriei~ri~sia··· 
+l,ppie T9Chnirai SOCV;ces (Shangha;J 
+•• Company Limited * 
+I 
+sea is ifoiding oneLLc ' 
+I 
+0ea1s·e;;;a;;;n;cs·;niemat;onal 
+•• Unlimited Company* 
+Beats Electronics Hong Kong Limited 
+·.* 
+l,pp;e·oaia·se;;;;ces·;;e,aaa·umiiea·· 
+•• Apple.Aps·· 
+•• App1e·rviacau·uniiiac:ia·;··· 
+I 
+;;;pp;e Teknoloj; ve Sat,s um;ted 
+Sirketi 
+ls,u se,e;;;;s 
+Registered office 
+c/o TMF 
+Sweden AB, 
+Sergels Torg 12, 
+11157, Stockholm, 
+Sweden 
+bid. 2, 4 Romanov Lane, 
+6th floor, premises II, room 54, 
+125009, 
+Moscow, 
+Russian Federation 
+12 Maski! Street, 
+POB 12147, 
+Herzliya Pituach, 4673312, Israel 
+Gd. World Trade Center 2, Lt. 19, 
+JI. Jend. Sudirman 
+Kav. 29-31, KeL Karel, 
+Kee. Setiabudi, 
+Jakarta, Selatan, 12920, 
+Indonesia 
+Unit 1702 (nominal level, actual level 
+Unit 1502), No. 1249 Century Avenue, 
+China (Shanghai) Pilot Free Trade 
+Zone, 
+China 
+Corporation Trust Center, 
+1209 Orange Street, 
+Wilmington DE 19801, 
+United States 
+Hollyhill Industrial Estate, Hollyhill, 
+Cork, 
+Ireland 
+14/F, One Taikoo Place, 
+979 King's Road, 
+Quarry Bay, 
+Hong Kong SAR 
+Hollyhill Industrial Estate, Hollyhill, 
+Cork, 
+Ireland 
+Silkegade 8, 1st Floor, DK-1113, 
+Copenhagen, 
+Denmark 
+Avenida da Praia Grande, No. 759, 5th 
+Floor, 
+Macau, 
+China 
+Buyukdere Caddesi, No:199, 
+Leven! 199, Kat: 22 ve 23, 
+Si§li, Mecidiyekoy, istanbul, 34394, 
+Turkey 
+c/o TMF Sweden AB, Sergels Torg 12, 
+11157, Stockholm, 
+Sweden 
+Nature of business 
+Retail company 
+Sales, distribution and related services 
+Sales support, marketing, related services, 
+research and development 
+Sales, distribution and related services 
+Technical services and other support 
+services 
+Holding company 
+Inactive 
+Inactive 
+Holding company 
+Operation of data centre 
+Retail company 
+Sales, distribution and related services 
+Holding company 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 31 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+c/o Simpson Grierson, Level 27, 
+• 88 Shortland Street, 
+................................................................................................ 
+• Sales, distribution and related services 
+• Auckland Central, Auckland, 1010, 
+• New Zealand 
+/i\ppie saies.New·zeaiand 
+IApp;e eumpeum;;;;;; ·································100· New.Bridge.street, 
+Saies support, marketing and related 
+• services 
+• London, EC4V 6JA, 
+• United Kingdom 
+Apple\heinam Limited Liability 
+••Company 
+·············•·0;;i1·go1,·oeuisciies·Haus·Ho·ciii.Minii··• Sales, distribution and related services 
+>Appie Technology Services 
+•• (Guizhou) Ltd* 
+l,pp;e iUK\·;::;;;;11;;;;·· 
+iAppie Lii11uari1a:·uJi.s·· 
+·•Apple· sa1es &: • tviari<eiing ·Nigeria· Lid 
+I 
+;;;pp;e sa;e;·aomaa;a·s:e:c·· 
+IAPPi9 T9Ch00i0Qy Sen,;ce, 
+•• (Ulanqab) Ltd.* 
+Lp;e technology Sen,;ce, B.V. & 
+••Co. KG 
+• City, No.33, Le Duan Blv., 
+• 
+• Ben Nghe Ward, District 1, Ho Chi Minh • 
+• City, Vietnam 
+• 
+Room 1: Levei 2:siock 1310, Compiex 
+Technical services and other support 
+• B, Gui'an Cloud Valley, 
+• services 
+• Qianzhong Avenue, Electronics 
+• 
+• Information Industrial Park, Gui'an New • 
+• Area, Guizhou, China 
+•❖1oo·New·sridge.sireei,··············· 
+• London, EC4V 6JA, 
+................................................. 
+• Research and development, technical and 
+• other services 
+• United Kingdom 
+•❖•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• ..................................... 
+• Jogailos g. 9, 
+• Sales support, marketing and related 
+• Vilnius, 01116, Lithuania 
+• services 
+··• si:· Niciioias.House.(1oiii. Fioori ·················•· saies.suppori:·mari<eiirig.anci.reiaieci·· 
+• Catholic Mission Street, 
+Lagos, 100001, 
+• Nigeria 
+6L luiiu Maniu Boulevard, Campus 6, 
+• Building 6.1, 1st floor, office 119, Sector 
+• 6, Bucharest, 
+.Romania 
+Room 402, South Side of Level 4, 
+• North Tower, Zhongchuang Building, 
+• Shuguang Road, Jining District, 
+• Ulanqab City, Inner Mongolia 
+• Autonomous Reg., 
+•China 
+• services 
+Sales support, marketing and related 
+• services 
+Technical services and other support 
+• services 
+Hackerbriicke 6, 80335, 
+.................................................... 
+• Munich, 
+• Bavaria-Bayern, 
+•Germany 
+• Technical services and other support 
+• services 
+kpp;e saUd; Acab;a (a s;ngle 
+•• Shareholder Limited Liability 
+••Company) 
+·················•·Leve1 30:·i=a1saiia11·i'ower:····························• Sales, distribution and related services 
+• King Fahed Highway, Olayah District, 
+• 
+P.O Box 54995, 
+• 
+• Riyadh, 11524, 
+• 
+..........................................................•. Sil.1.Jcti Arnb.iil. ......................................................• 
+•• Shazam Media Services (Australia) 
+• c/o Baker McKenzie, Tower One -
+• 
+•• Ply Ltd. * 
+• International Towers Sydney, Level 46, • 
+I 
+Sha,am Enterta;nment um;ted • 
+Inactive 
+• 100 Barangaroo Avenue, Sydney NSW • 
+• 2000, Australia 
+................................ 
+• Friedberger StraBe 7, 
+61250, Usingen, 
+•Germany 
+.............................................. 
+• The Shard, 
+•••••••••••••••••••••••••••••••••••❖••••••••••••••••••• 
+= Inactive 
+••••••••••••••••••••••••••••❖•••••••••••••••••••••••••••••••••••••• 
+• Holding company 
+• 32 London Bridge Street, 
+• London, SE1 9SG, 
+• United Kingdom 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 32 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+••·Naiiieoi comi>ariy·· 
+··············•·i=iegisterecioifice ··········································•·Naii:ire·o1·husiriess··· 
+··············•·yiie·siiard:·········· ···············································•·inac1ive·· 
+ISlamplay Um;led • 
+I , K;nema um,eo • 
+• 32 London Bridge Street, 
+• London, SE1 9SG, 
+• United Kingdom 
+······································100· New·sridge.street, 
+• London, 
+.EC4V 6JA, 
+• United Kingdom 
+·····················10o·New·sricige·s1reet, 
+• London, 
+•EC4V 6JA, 
+• United Kingdom 
+............................................................ 
+Am Campean 1-12, 
+85579, 
+• Neubiberg, 
+...................................• <3-~rr:n.cJ.riy .. 
+••••••••••••••••••••••••••••••••❖•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+Apple B.V. & Co KG 
+• Freistadter StraBe 400, 
+• 4040, Linz, 
+=Austria 
+• Research and development services 
+Apple France 
+................................................ 
+·················································>saies support, marketing and related 
+'services 
+• 7 Place d'lena, 
+• 75116, Paris, 
+• France 
+•• specirai.Edge·uriiiiec:i 
+.................................................................. 
+•••••••••••••••••••••••••••••••❖••••••••••••••••••• 
+• 100 New Bridge Street , 
+• inactive 
+• London, EC4V 6JA, 
+• United Kingdom 
+··V~ysis.UKLi~iieii 
+v~ysis Limiiec:i; 
+.......................................................... 
+••••••••••••••••••••••••••••••••••••••••❖••••••••••••••••••• 
+• 15 Atholl Crescent, 
+• Edinburgh, EH3 8HA, 
+'Scotland 
+= Inactive 
+.............................................................. 
+•••••❖••••••••••••••••••• 
+Appie Ukraine Limited Liability 
+••Company* 
+l,;;p1e·1nves1men1s egy;;1·ccc 
+• Rear Third Floor, 80 Harcourt Street, 
+• Dublin 2, 
+• 1reland 
+T1r1s Boisunovska St., IQ Business 
+• Centre, 
+• Kyiv, 01014, 
+• Ukraine 
+Niie Ciiy Building, North Tower, 2005C, 
+• 22 Floor, Cornish El Nil, 
+• Cairo, 11624, 
+•Egypt 
+Ki1ie c11y su1idi~g, Norlhf~;;;;e/; 2oosc: 
+• 22 Floor, Unit No. 2224, Cornish El Nil, 
+• Cairo, 11624, 
+.Egypt 
+....................................... 
+• Nile City Building, North Tower, 22 
+• Floor 2005C, Unit No. 2224W3,Cornish 
+• El Nil, Ramie! Beaulac, 
+• Cairo, 11624, 
+•Egypt 
+• inactive 
+❖Saies support, marketing and related 
+• services 
+·• Apple Trading Egypt LLC* 
+!Apple EPE• 
+.............................. 
+••••••••••••••••••••••••••••••❖••••••••••••••••••• 
+I 
+Apple AdvertIB;ag (Be;j;ag) Ltd: 
+Ag. Konstantinou 59-61, 
+• Marousi, 
+•Athens, 
+.15124, 
+=Greece 
+........................................... 
+• Room 203-2, Level 2, Building 1, Zone 
+• 1, No. 81 Beiqing Road, Haidian 
+• District, 
+• Beijing, China 
+• Inactive 
+•❖••••••••••••••••• 
+• Promote and resell advertising placement 
+• service 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 33 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+••·Naiiieoi company·· 
+········Registered office ··········································•·Naiureof business·· 
+•• Aba Prefecture Hongyuan Huanju 
+•• Ecological Energy Co., Ltd.(*)(****) 
+t,sa e;eieciu;;; z;og;; """"'" 
+•• Ecological Energy Co., Ltd.(*)(****) 
+rNo:··1·s .. vang Ga Zhong Jie, ·······················To·pe·rati·On··o(phOt·ovoit8.·iC.St8ii0ri ... 
+Qiongxi Town, 
+• Hongyuan County, 
+• Sichuan Province, 
+•china 
+No: 4 Commerce Street, 
+Zioge County, 
+• Sichuan Province, 
+•China 
+................................................................................................... 
+• Operation of photovoltaic station 
+f HOhhOi HOSOjU NOW e;:;;;;gy 
+•• Development Co., Ltd.(*)(***) 
+·················•·oingshan Road, 
+• Wuchuan County, 
+................................................................................................................ 
+• Operation of photovoltaic station 
+f ffaayaag Runtang New Enecgy Co .. 
+•• Ltd.(*)(**) 
+f QiSOjia TISnq;ao w;nd Powec Co .. 
+•• Ltd.(*)(**) 
+lzibO Runchuan New Enecgy Co., Ltd. 
+•• (*)(**) 
+lshOOihOU Pi"91u s;neng W,nd Powec 
+Co., Ltd.(*)(**) 
+Lng;:;.o Huanju New Enecgy Co., 
+•• Ltd.(*)(**) 
+• Inner Mongolia Autonomous Region, 
+•China 
+indusiries Centralization Zone, 
+.................................................................................................. 
+• Tanghe County, 
+• Nanyang City, 
+• Henan Province, 
+•china 
+• Operation of wind farm power stations 
+Ylbo San Village, 
+.............................................................................................................................. 
+• Baihetan Town, 
+• Qiaojia County, 
+Zhaotong City, 
+• Yunnan Province, 
+•China 
+• No. 717 Chuangye Building, 
+• Zichuan Economic Development Zone, 
+Zibo City, 
+• Shandong Province, 
+•China 
+• Second floor of Baixinyao Xincun, 
+• North side of Pingyang East Road, 
+• Pinglu District, 
+• Shuozhou City, 
+• Shanxi Province, 
+•china 
+oiilce of Management Committee of 
+• Kangbao County Economic 
+• Development Zone, 
+• Zhangjiakou City, 
+• Hebei Province ()iiJ ~l;~), 
+•China 
+• Operation of a wind farm power station 
+•❖operaiion.wiriei iarm.powersia1ion·· 
+* Certain entities have a different financial year-end where required or permitted by local laws and/or regulations. 
+All Group entities listed above are, directly or indirectly, wholly owned subsidiaries of the Company or partnerships within the 
+Group, except where the Group held 30%**, 34%*** and 44%**** respectively of the entity at year end. The shares held by 
+the Company, directly or indirectly, are ordinary voting shares or an equivalent type of voting equity interest provided for 
+under the laws of their jurisdiction of formation/incorporation. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 34 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 3 - Net Sales 
+Net sales disaggregated by products and services for 2021 and 2020 were as follows: 
+Years ended 
+Products (1) 
+Services l2l 
+Total net sales (3) 
+25 September 
+2021 
+$'m 
+178,246 
+32,812 
+211,058 
+26 September 
+2020 
+$'m 
+122,771 
+25,397 
+148,168 
+(1) 
+Products net sales include amortisation of the deferred value of unspecified software upgrade rights, which are bundled in the 
+sales price of the respective product. 
+(2) 
+Services net sales include sales from the Group's advertising, AppleCare, cloud, digital content, payment and other services. 
+Services net sales also include amortisation of the deferred value of services bundled in the sales price of certain products. 
+(3) 
+Includes $2.6 billion and $2.3 billion of revenue recognised in 2021 and 2020, respectively, that was included in deferred revenue 
+at the beginning of each respective year. 
+Deferred Revenue 
+As of 2021 and 2020, the Company had total deferred revenue of $5.3 billion and $4.2 billion, respectively. As of 2021, the 
+Company expects $3.3 billion of total deferred revenue to be realised in less than a year, and $2.0 billion in greater than one 
+year. 
+Note 4 - Consolidated Financial Statement Details 
+The following tables show the consolidated financial statement details of the Group as of 25 September 2021 and 26 
+September 2020: 
+Accounts receivable, net 
+As of 25 
+As of 26 
+September 
+September 
+2021 
+2020 
+$'m 
+$'m 
+Trade receivables 
+15,246 
+8,227 
+Vendor non-trade receivables 
+13,890 
+10,256 
+Amounts owed from Ultimate Parent (Note 11, "Related Party Transactions") 
+1,597 
+912 
+Amounts owed from other Apple related parties (Note 11, "Related Party Transactions") 
+830 
+771 
+31,563 
+20,166 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 35 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Other current assets 
+Loans owed from Ultimate Parent (Note 11, "Related Party Transactions") 
+Prepayments to Ultimate Parent (Note 11, "Related Party Transactions") 
+Other current assets 
+Other non-current assets 
+Prepayments to Ultimate Parent (Note 11, "Related Party Transactions") 
+Other non-current assets 
+Accounts payable 
+Trade payables 
+Amounts owed to Ultimate Parent (Note 11, "Related Party Transactions") 
+Amounts owed to other Apple related parties (Note 11, "Related Party Transactions") 
+Note 5 - Share-Based Compensation 
+As of 25 
+September 
+2021 
+$'m 
+22,003 
+5,664 
+5,618 
+33,285 
+As of 25 
+September 
+2021 
+$'m 
+9,336 
+3,272 
+12,608 
+As of 25 
+September 
+2021 
+$'m 
+28,870 
+11,499 
+2,661 
+43,030 
+As of 26 
+September 
+2020 
+$'m 
+6,159 
+6,159 
+As of 26 
+September 
+2020 
+$'m 
+5,547 
+5,547 
+As of 26 
+September 
+2020 
+$'m 
+20,082 
+7,911 
+2,074 
+30,067 
+As of 25 September 2021, the Group's Ultimate Parent had employee benefit plans relevant to the Group; the 2014 
+Employee Stock Plan, and the Employee Stock Purchase Plan. Under these plans, the Group's Ultimate Parent issues 
+shares of Apple Inc. upon vesting of restricted stock units ("RSUs"), or the employees' purchase of shares under the plans. 
+The issuance of shares is undertaken solely by Apple Inc .. The relevant employee benefit plans are summarised as follows: 
+2014 Employee Stock Plan 
+The 2014 Plan provides for broad-based equity grants to employees, including executive officers, and permits the granting of 
+RSUs, stock grants, performance-based awards, stock options and stock appreciation rights, as well as cash bonus awards. 
+RSUs granted under the 2014 Plan generally vest over four years, based on continued employment, and are settled upon 
+vesting in shares of Apple common stock on a one-for-one basis. RSUs granted under the 2014 Plan reduces the number of 
+shares available for grant under the plan by a factor of two times the number of RSUs granted. RSUs cancelled and shares 
+withheld to satisfy tax withholding obligations increase the number of shares available for grant under the 2014 Plan utilising 
+a factor of two times the number of RSUs cancelled or shares withheld. All RSUs granted under the 2014 Plan have dividend 
+equivalent rights ("DERs"), which entitle holders of RSUs to the same dividend value per share as holders of common stock. 
+DERs are subject to the same vesting and other terms and conditions as the underlying RSUs. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 36 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Employee Stock Purchase Plan 
+The Employee Stock Purchase Plan (the "Purchase Plan") is an Apple Inc. shareholder-approved plan under which 
+substantially all employees may purchase Apple common stock through payroll deductions at a price equal to 85% of the 
+lower of the fair market values of the stock as of the beginning or the end of six-month offering periods. An employee's 
+payroll deductions under the Purchase Plan are limited to 10% of the employee's compensation and employees may not 
+purchase more than $25,000 of stock during any calendar year. 
+Restricted Stock Units 
+A summary of the Group's RSUs granted and related information for 2021 and 2020 is as follows: 
+Years ended 
+25 September 2021 
+26 September 2020 
+Restricted Stock Units granted 
+Share-Based Compensation Expense 
+Number of 
+RSUs 
+(in thousands) 
+Weighted-
+Average 
+Grant Date 
+Fair 
+Value Per 
+RSU 
+115.33 
+11,593 
+$ ======= 
+Number of 
+RSUs 
+(in thousands) 
+Weighted-
+Average 
+Grant Date 
+Fair 
+Value Per 
+RSU 
+58.97 
+20,006 
+$ 
+======= 
+The share-based compensation expense included in the Consolidated Statements of Operations for 2021 is $1.2 billion 
+(2020: $941 million). 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 37 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 6 - Provision for Income Taxes 
+The major components of income tax for the years ended 25 September 2021 and 26 September 2020 are: 
+Years ended 
+Current income tax: 
+Corporation tax charge 
+Change in estimates related to prior years 
+Total current income tax 
+Deferred income tax: 
+Origination and reversal of temporary differences 
+Employee share-based payments 
+Change in estimates related to prior years 
+Total deferred income tax 
+Provision for income taxes 
+25 September 
+2021 
+$'m 
+8,521 
+74 
+8,595 
+3,013 
+(75) 
+42 
+2,980 
+11,575 
+26 September 
+2020 
+$'m 
+2,286 
+307 
+2,593 
+3,746 
+(60) 
+(130) 
+3,556 
+6,149 
+The following table shows the reconciliation of income tax to accounting profit multiplied by the applicable tax rate for 2021 
+and 2020: 
+Years ended 
+Income before provision for income taxes 
+Tax charge at the applicable tax rate of 12.5% 
+Expenses not deductible for tax purposes 
+Differences in effective tax rates on overseas earnings 
+Change in estimates related to prior years 
+Other 
+Provision for income taxes 
+25 September 
+2021 
+$'m 
+67,742 
+8,468 
+141 
+2,335 
+116 
+515 
+11,575 
+26 September 
+2020 
+$'m 
+33,808 
+4,226 
+729 
+725 
+177 
+292 
+6,149 
+The corporate income taxes reported in the Consolidated Statements of Operations, Balance Sheets, and Statements of 
+Cash Flows do not include U.S.-level corporate taxes borne by Apple Inc. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 38 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+The Group's deferred tax assets are analysed as follows: 
+As of 28 September 2019 
+Tax charged to the Consolidated Statements of Operations 
+Tax charged to the Consolidated Statements of Comprehensive Income 
+Tax charged to the Consolidated Statements of Shareholders' Equity 
+As of 26 September 2020 
+Tax charged to the Consolidated Statements of Operations 
+Tax charged to the Consolidated Statements of Comprehensive Income 
+Tax charged to the Consolidated Statements of Shareholders' Equity 
+As of 25 September 2021 
+Intra Group 
+transactions 
+$'m 
+10,608 
+(3,263) 
+7,345 
+(3,266) 
+4,079 
+Other 
+Total 
+$'m 
+$'m 
+3,608 
+14,216 
+(293) 
+(3,556) 
+180 
+180 
+91 
+91 
+3,586 
+10,931 
+286 
+(2,980) 
+(229) 
+(229) 
+40 
+40 
+3,683 
+7,762 
+As of 25 September 2021, the Group has $2.6 billion in unused tax credits, which can be carried forward indefinitely, for 
+which no deferred tax asset is recognised in the Consolidated Balance Sheets. 
+Uncertain tax position: 
+The Group classifies tax benefits that are not expected to result in payment or receipt of cash within one year as non-current 
+liabilities in the Consolidated Balance Sheets. 
+The changes in the balance of gross tax benefits, for 2021 are as follows: 
+Carrying amount at beginning of year 
+Increases during the year 
+Decreases during the year 
+Carrying amount at end of year 
+As of 25 
+September 
+2021 
+$'m 
+4,778 
+3,640 
+(270) 
+8,148 
+The Group is subject to income taxes in numerous jurisdictions. The evaluation of the Group's uncertain tax positions 
+involves significant judgment in the interpretation and application of IFRS and tax laws, including the allocation of 
+international taxation rights between countries. Although management believes the Group's reserves are reasonable, no 
+assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in the 
+Group's reserves. Reserves are adjusted considering changing facts and circumstances, such as the closing of a tax 
+examination or the refinement of an estimate. Resolution of these uncertainties in a manner inconsistent with management's 
+expectations could have a material impact on the Group's financial condition and operating results. 
+On 30 August 2016, the European Commission announced its decision that Ireland granted state aid to the Group by 
+providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the 
+Group (the "State Aid Decision"). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the 
+Group for the period June 2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated 
+the application of the tax opinions from that date forward. The recovery amount was calculated to be €13.1 billion, plus 
+interest of €1.2 billion. The Group and Ireland appealed the State Aid Decision to the General Court of the Court of Justice of 
+the European Union (the "General Court"). On 15 July 2020, the General Court annulled the State Aid Decision. On 25 
+September 2020, the European Commission appealed the General Court's decision to the European Court of Justice. 
+On an annual basis, the Group may request approval from the Irish Minister for Finance to reduce the recovery amount for 
+certain taxes paid to other countries. As of 25 September 2021, the adjusted recovery amount was €12.7 billion, excluding 
+interest. The adjusted recovery amount plus interest is funded into escrow, where it will remain restricted from general use 
+pending the conclusion of all legal proceedings. Refer to Note 7, "Financial Risk Management and Financial Instruments" for 
+more information. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 39 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 7 - Financial Risk Management and Financial Instruments 
+The Group's activities expose it to a variety of financial risks that include interest rate risk, foreign currency risk, liquidity risk 
+and credit risk. These financial risks are actively managed by Apple lnc.'s Treasury Department on behalf of the Group under 
+strict policies and guidelines. The Treasury Department monitors market conditions with a view to minimising the exposure of 
+the Group to changing market factors. The Group uses derivative financial instruments such as foreign currency contracts to 
+manage the financial risks associated with the underlying business activities of the Group. 
+Cash, Cash Equivalents, Marketable and Non-Marketable Securities 
+The Group classifies its marketable debt securities as either short-term or long-term based on each instrument's underlying 
+contractual maturity date. Cash and cash equivalents comprise of cash balances, call deposits and deposits with original 
+maturity of three months or less. 
+The following tables show the Group's cash, cash equivalents, marketable securities and non-marketable securities for 2021 
+and 2020: 
+As of 25 September 2021 
+Adjusted 
+Fair 
+Cash and 
+Short-Term 
+Long-Term 
+Other non-
+Cost 
+Value 
+Cash 
+Marketable 
+Marketable 
+current 
+Equivalents 
+Securities 
+Securities 
+assets 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+Financial assets at amortised cost: 
+Cash 
+10,900 
+10,900 
+10,900 
+Financial assets at fair value through profit or 
+loss: 
+Money market funds <1) 
+5,578 
+5,578 
+5,578 
+Equity securities (2H3l 
+2,729 
+2,504 
+963 
+1,541 
+Subtotal 
+8,307 
+8,082 
+5,578 
+963 
+1,541 
+Financial assets at fair value through other 
+comprehensive income: 
+Marketable Securities 
+18,237 
+18,251 
+351 
+5,441 
+12,459 
+Total (4l 
+37,444 
+37,233 
+16,829 
+6,404 
+12,459 
+1,541 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 40 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+As of 26 September 2020 
+Adjusted 
+Fair 
+Cash and 
+Short-Term 
+Long-Term 
+Cost 
+Value 
+Cash 
+Marketable 
+Marketable 
+Equivalents 
+Securities 
+Securities 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+Financial assets at amortised cost: 
+Cash 
+4,237 
+4,237 
+4,237 
+Financial assets at fair value through profit or 
+loss: 
+Money market funds (1l 
+583 
+583 
+583 
+Equity securities (2H3l 
+2,712 
+2,633 
+Subtotal 
+3,295 
+3,216 
+583 
+Financial assets at fair value through other 
+comprehensive income: 
+Marketable Securities 
+22,362 
+22,412 
+3,793 
+4,267 
+14,352 
+Total (4l 
+29,894 
+29,865 
+8,613 
+4,267 
+14,352 
+(1) 
+Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities. 
+(2) 
+Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical 
+assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are 
+observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. 
+(3) 
+Level 3 fair value estimates are based on inputs that are unobservable. 
+(4) 
+As of 25 September 2021, total cash, cash equivalents and marketable securities included $18.0 bn (2020: $19.1 bn) that 
+was restricted from general use, related to the State Aid Decision (see Note 6, "Provision for Income Taxes") and other 
+agreements. 
+Other 
+non-
+current 
+assets 
+$'m 
+2,633 
+2,633 
+2,633 
+The fair value of the Group's money market funds and certain marketable securities are based on quoted prices in active 
+markets for identical assets. The valuation techniques used to measure the fair value of the Group's debt instruments and 
+other financial instruments which generally have counter parties with high credit ratings, are based on quoted market prices 
+or model-driven valuations using significant inputs derived from or corroborated by observable market data. The Group may 
+sell certain of its marketable debt securities prior to their stated maturities for reasons including, but not limited to, managing 
+liquidity, credit risk, duration and asset allocation. The maturities of the Group's long-term marketable debt securities 
+generally range from one to five years. 
+Interest Rate and Foreign Currency Risk Management 
+The Group regularly reviews its foreign exchange forward and option positions and interest rate swaps, both on a stand-alone 
+basis and in conjunction with its underlying foreign currency and interest rate exposures. Given the effective horizons of the 
+Group's risk management activities and the anticipatory nature of the exposures, there can be no assurance these positions 
+will offset more than a portion of the financial impact resulting from movements in either foreign exchange or interest rates. 
+Further, the recognition of the gains and losses related to these instruments may not coincide with the timing of gains and 
+losses related to the underlying economic exposures and, therefore, may adversely affect the Group's financial condition and 
+operating results. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 41 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Interest Rate Risk 
+The Group's exposure to changes in interest rates relates primarily to the Group's investment portfolio. While the Group is 
+exposed to global interest rate fluctuations, the Group's interest income is most sensitive to fluctuations in Euro and U.S. 
+dollar interest rates. Changes in Euro and U.S. dollar interest rates affect the interest earned on the Group's cash, cash 
+equivalents and marketable securities and the fair value of those securities, as well as costs associated with hedging. 
+The Group's investment policy and strategy are focused on preservation of capital and supporting the Group's liquidity 
+requirements. The Group uses a combination of internal and external management to execute its investment strategy and 
+achieve its investment objectives. The Group typically invests in highly-rated securities, with the primary objective of 
+minimising the potential risk of principal loss. The Group's investment policy generally requires investments to be investment 
+grade and limits the amount of credit exposure to any one issuer. To provide a meaningful assessment of the interest rate 
+risk associated with the Group's investment portfolio, the Group performed a sensitivity analysis to determine the impact a 
+change in interest rates would have on the value of the investment portfolio assuming a 100 basis point parallel shift in the 
+yield curve. Based on investment positions as of 25 September 2021 and 26 September 2020, a hypothetical 100 basis point 
+increase in interest rates across all maturities would result in a $270 million and $326 million incremental decline in the fair 
+market value of the portfolio, respectively. Such losses would only be realised if the Group sold the investments prior to 
+maturity. 
+Foreign Currency Risk 
+In general, the Group is a net receiver of currencies other than U.S. dollar. Accordingly, changes in exchange rates, and in 
+particular a strengthening of the U.S. dollar will negatively affect the Group's net sales and gross margins as expressed in 
+U.S. dollars. There is a risk that the Group will have to adjust local currency product pricing due to competitive pressures 
+when there has been significant volatility in foreign currency exchange rates. 
+The Group may enter into foreign currency forward and option contracts with financial institutions to protect against foreign 
+exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future 
+cash flows and net investments in foreign subsidiaries. The Group generally hedges portions of its forecasted foreign 
+currency exposure associated with revenue and inventory purchases, typically for up to 12 months. However, the Group may 
+choose not to hedge certain foreign exchange exposures for a variety of reasons, including but not limited to, accounting 
+considerations or the prohibitive economic cost of hedging particular exposures. 
+To provide a meaningful assessment of the foreign currency risk associated with certain of the Group's foreign currency 
+derivative positions, the Group performed a sensitivity analysis using a value-at-risk ("VAR") model to assess the potential 
+impact of fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands 
+of random market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a 
+given confidence interval, to the Group's foreign currency derivative positions due to adverse movements in rates. The VAR 
+model is not intended to represent actual losses but is used as a risk estimation and management tool. Forecasted 
+transactions, firm commitments and assets and liabilities denominated in foreign currencies were excluded from the model. 
+Based on the results of the model, the Group estimates with 95% confidence, a maximum one-day loss in fair value of $437 
+million as of 25 September 2021 compared to a maximum one-day loss in fair value of $462 million as of 26 September 
+2020. Because the Group uses foreign currency instruments for hedging purposes, the losses in fair value incurred on those 
+instruments are generally offset by increases in the fair value of the underlying exposures. 
+Actual future gains and losses associated with the Group's investment portfolio and derivative positions may differ materially 
+from the sensitivity analyses performed as of 25 September 2021 due to the inherent limitations associated with predicting 
+the timing and amount of changes in interest rates, foreign currency exchange rates and the Group's actual exposures and 
+positions. 
+Liquidity Risk 
+The Group believes its balances of cash, cash equivalents and unrestricted marketable securities, which totaled $17.7 billion 
+as of 25 September 2021, along with cash generated by ongoing operations, will be sufficient to satisfy its cash requirements 
+over the next 12 months and beyond. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 42 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Maturity of financial liabilities 
+The following tables summarise the maturity profile of the Group's financial liabilities for 2021 and 2020 based on contractual 
+payments: 
+Non-Derivative Financial Instruments: 
+Accounts payable 
+Other current liabilities 
+Other non-current liabilities 
+Subtotal 
+Derivative Financial Instruments: 
+Foreign exchange contracts 
+Non-Derivative Financial Instruments: 
+Accounts payable 
+Other current liabilities 
+Other non-current liabilities 
+Subtotal 
+Derivative Financial Instruments: 
+Foreign exchange contracts 
+Carrying 
+Amount 
+$'m 
+43,030 
+16,309 
+4,352 
+63,691 
+545 
+Carrying 
+Amount 
+$'m 
+30,067 
+13,184 
+3,511 
+46,762 
+965 
+As of 25 September 2021 
+Contractual 
+Period <1 
+Amount 
+year 
+$'m 
+$'m 
+43,030 
+43,030 
+16,309 
+16,309 
+4,352 
+63,691 
+59,339 
+79,450 
+77,669 
+As of 26 September 2020 
+Contractual 
+Period <1 
+Amount 
+year 
+$'m 
+$'m 
+30,067 
+30,067 
+13,184 
+13,184 
+3,511 
+46,762 
+43,251 
+121,911 
+112,535 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 43 
+Period 1-5 
+years 
+$'m 
+4,352 
+4,352 
+1,781 
+Period 1-5 
+years 
+$'m 
+3,511 
+3,511 
+9,376 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Credit Risk 
+Credit risk refers to the risk of financial loss to the Group if a counterparty defaults on its contractual obligations on financial 
+assets held in the Consolidated Balance Sheets of the Group. The maximum exposure to credit risk is represented by the 
+carrying amount of each financial asset in the Consolidated Balance Sheets of the Group. 
+Accounts Receivable 
+The Group is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and amounts owed by 
+related parties and this risk is heightened during periods when economic conditions worsen. 
+The Group has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers, 
+resellers, small and mid-sized businesses and education, enterprise and government customers. The Group generally does 
+not require collateral from its customers; however, the Group will require collateral or third-party credit support in certain 
+instances to limit credit risk. In addition, when possible, the Group attempts to limit credit risk on trade receivables with credit 
+insurance for certain customers or by requiring third-party financing, loans or leases to support credit exposure. These credit-
+financing arrangements are directly between the third-party financing company and the end customer. As such, the Group 
+generally does not assume any recourse or credit risk sharing related to any of these arrangements. 
+The Group has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to 
+these vendors who manufacture sub-assemblies or assemble final products for the Group. The Group purchases these 
+components directly from suppliers. 
+Accounts receivables are generally receivable within 30 days of the Consolidated Balance Sheet dates and are unsecured 
+and non-interest bearing. The ageing analysis of accounts receivables, stated net of provisions for expected credit losses are 
+as follows: 
+Carrying Amount 
+Neither past due nor impaired 
+Past due but not impaired 
+Cash, Cash Equivalents, Marketable and Non-Marketable Securities 
+As of 25 
+September 
+2021 
+$'m 
+31,509 
+54 
+31,563 
+As of 26 
+September 
+2020 
+$'m 
+20,114 
+52 
+20,166 
+The Group is exposed to credit risk and fluctuations in the values of its investment portfolio. The Group's investments can be 
+negatively affected by liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign 
+risk, interest rate fluctuations or other factors. As a result, the value and liquidity of the Group's cash, marketable and non-
+marketable securities may fluctuate substantially. Therefore, although the Group has not realised any significant losses on its 
+cash, marketable and non-marketable securities, future fluctuations in their value could result in significant losses and could 
+have a material adverse impact on the Group's financial condition and operating results. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 44 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+The following table shows the credit ratings of the Group's cash, marketable and non-marketable securities: 
+Investment Grade 
+Non-Investment Grade 
+Capital Risk Management 
+Carrying Amount 
+As of 25 
+As of 26 
+September 
+September 
+2021 
+2020 
+$'m 
+$'m 
+34,366 
+27,231 
+1,904 
+2,634 
+36,270 
+29,865 
+Capital includes ordinary shares and equity attributable to the equity shareholders of the Group. The primary objective of the 
+Group's capital management is to ensure that entities in the Group will be able to trade on a going concern basis. The Group 
+believes its balances of cash, cash equivalents and unrestricted marketable securities, which totaled $17.7 billion as of 25 
+September 2021, along with cash generated by ongoing operations, will be sufficient to satisfy its cash requirements over the 
+next 12 months and beyond. 
+Derivative Financial Instruments 
+The following table shows the notional amounts of the Group's outstanding derivative instruments and credit risk amounts 
+associated with outstanding or unsettled derivative instruments as of 25 September 2021 and 26 September 2020: 
+As of 25 September 2021 
+As of 26 September 2020 
+Notional 
+Credit Risk 
+Notional 
+Credit Risk 
+Amount 
+Amount 
+Amount 
+Amount 
+$'m 
+$'m 
+$'m 
+$'m 
+Instruments designated as accounting hedges: 
+Foreign exchange contracts 
+59,779 
+542 
+41,550 
+701 
+Instruments not designated as accounting hedges: 
+Foreign exchange contracts 
+115,377 
+277 
+80,361 
+259 
+The notional amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and 
+do not represent the amount of the Group's exposure to credit or market loss. The credit risk amounts represent the Group's 
+gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties 
+failed to perform according to the terms of the contract, based on then-current currency or interest rates at each respective 
+date. The Group's exposure to credit loss and market risk will vary over time as currency and interest rates change. Although 
+the table above reflects the notional and credit risk amounts of the Group's derivative instruments, it does not reflect the 
+gains or losses associated with the exposures and transactions that the instruments are intended to hedge. The amounts 
+ultimately realised upon settlement of these financial instruments, together with the gains and losses on the underlying 
+exposures, will depend on actual market conditions during the remaining life of the instruments. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 45 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 8 - Property, Plant and Equipment, net 
+Cost: 
+As of 28 September 2019 
+Additions 
+Disposals 
+As of 26 September 2020 
+Additions 
+Disposals 
+As of 25 September 2021 
+Depreciation: 
+As of 28 September 2019 
+Charge for the year 
+Disposals 
+As of 26 September 2020 
+Charge for the year 
+Disposals 
+As of 25 September 2021 
+Net book value: 
+As of 25 September 2021 
+As of 26 September 2020 
+Leased ROU assets 
+As of 25 September 2021, net carrying amount 
+As of 26 September 2020, net carrying amount 
+Total property, plant and equipment as of 25 September 2021 
+Buildings 
+Leasehold 
+Improvements 
+$'m 
+$'m 
+1,427 
+3,359 
+242 
+528 
+(13) 
+1,669 
+3,874 
+408 
+160 
+(31) 
+2,077 
+4,003 
+127 
+1,649 
+47 
+396 
+(33) 
+174 
+2,012 
+57 
+337 
+(28) 
+231 
+2,321 
+1,846 
+1,682 
+1,495 
+1,862 
+Buildings 
+$'m 
+4,293 
+3,325 
+Additions to ROU assets during 2021 were $1.7 billion (2020: $995 million). 
+Machinery & 
+Equipment 
+$'m 
+44,478 
+3,258 
+(682) 
+47,054 
+4,989 
+(4,708) 
+47,335 
+35,240 
+5,377 
+(572) 
+40,045 
+4,972 
+(4,674) 
+40,343 
+6,992 
+7,009 
+Machinery & 
+Equipment 
+$'m 
+135 
+162 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 46 
+Total 
+$'m 
+49,264 
+4,028 
+(695) 
+52,597 
+5,557 
+(4,739) 
+53,415 
+37,016 
+5,820 
+(605) 
+42,231 
+5,366 
+(4,702) 
+42,895 
+10,520 
+10,366 
+Total 
+$'m 
+4,428 
+3,487 
+14,948 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 9 - Provisions 
+The following table shows changes in the Group's accrued warranties and related costs for 2021: 
+Beginning accrued warranty and related costs 
+Costs of warranty claims 
+Accruals for warranty 
+Ending accrued warranty and related costs 
+As of 25 
+September 
+2021 
+$'m 
+3,097 
+(2,503) 
+3,091 
+3,685 
+The Group offers limited warranties on its hardware products. The warranty period is typically one year from the date of 
+purchase by the original end user. The Group also offers a limited warranty on the service parts used to repair the Group's 
+hardware products. In certain jurisdictions, local law requires that manufacturers guarantee their products for a period 
+prescribed by statute, typically at least two years. 
+Warranty costs are based on historical and projected warranty claim rates, historical and projected cost per claim and 
+knowledge of specific product failures that are outside of the Group's typical experience. The Group regularly reviews these 
+estimates and adjusts the warranty liabilities if actual product failure rates or repair costs differ from estimates. 
+Note 10 - Called up share capital presented as equity 
+Allotted, called up and fully paid: 
+10,000 (2020: 10,000) ordinary shares of $1 each 
+There is no authorised share capital under the Company's constitution as of 25 September 2021. 
+Rights attaching to the ordinary shares 
+The ordinary shares carry the right to; 
+As of 25 
+September 
+2021 
+$ 
+10,000 
+As of 26 
+September 
+2020 
+$ 
+10,000 
+(a) 
+receive notice of, attend, speak or vote at any general meeting of the Company, or participate in written 
+resolutions in lieu of a general meeting. Where a matter is being decided on a show of hands at a meeting, every 
+member present in person and every proxy shall have one vote and on a poll, every member shall have one vote 
+for every share held or for each €15 of stock held; 
+(b) 
+participate in the dividends (if any) declared on that class of share; and 
+(c) 
+in the winding up of the Company, repayment of capital paid upon such shares and the right to participate in the 
+division of any surplus assets or profits of the Company. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 47 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 11 - Related Party Transactions 
+The principal related party relationships requiring disclosure in the consolidated financial statements of the Group under IAS 
+24, Related Party Disclosures pertain to the existence of subsidiaries and transactions with related parties entered into by the 
+Group. 
+Subsidiaries and transactions with related parties 
+Sales to and purchases from, together with outstanding payables and receivables to and from subsidiaries, are eliminated in 
+the preparation of the consolidated financial statements of the Group in accordance with IFRS 10, Consolidated Financial 
+Statements. The Group enters into transactions with Apple related parties that are not eliminated in the preparation of the 
+consolidated financial statements of the Group. 
+Terms and conditions of transactions with related parties 
+Sales to and purchases from related parties are on terms equivalent to those that prevail in arm's length transactions. The 
+outstanding balances included in accounts receivables, net, accounts payable and other assets at the Consolidated Balance 
+Sheet dates are interest or non-interest bearing, unsecured and repayable on demand or within 40-90 day terms. 
+Prepayments to related parties are non-refundable and are expected to be recouped over 3 years. 
+The following tables summarise the transactions and outstanding balances with related parties: 
+As of 25 September 2021 
+Sales to 
+Purchases 
+Amounts 
+Amounts 
+Loans 
+Loans 
+Prepayments 
+Related 
+from 
+owed 
+owed to 
+owed 
+owed to 
+to Related 
+Parties 
+Related 
+from 
+Related 
+from 
+Related 
+Parties 
+Parties 
+Related 
+Parties 
+Related 
+Parties 
+Parties 
+Parties 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+Ultimate Parent 
+768 
+(17,798) 
+1,597 
+(11,499) 
+22,003 
+15,000 
+Other Apple related parties 
+6,125 
+(745) 
+830 
+(2,661) 
+196 
+(370) 
+6,893 
+(18,543) 
+2,427 
+(14,160) 
+22,199 
+(370) 
+15,000 
+As of 26 September 2020 
+Sales to 
+Purchases 
+Amounts 
+Amounts 
+Loans 
+Loans 
+Prepayments 
+Related 
+from 
+owed 
+owed to 
+owed 
+owed to 
+to Related 
+Parties 
+Related 
+from 
+Related 
+from 
+Related 
+Parties 
+Parties 
+Related 
+Parties 
+Related 
+Parties 
+Parties 
+Parties 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+$'m 
+Ultimate Parent 
+246 
+(18,902) 
+912 
+(7,911) 
+Other Apple related parties 
+4,756 
+(598) 
+771 
+(2,074) 
+126 
+(957) 
+5,002 
+(19,500) 
+1,683 
+(9,985) 
+126 
+(957) 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 48 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 12 - Leases 
+The Group has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing, and data 
+center space. These leases typically have original terms not exceeding 10 years and generally contain multi-year renewal 
+options, some of which are reasonably certain of exercise. 
+Payments under the Group's lease arrangements may be fixed or variable, and variable lease payments are primarily based 
+on purchases of output of the underlying leased assets. As of 25 September 2021, lease costs associated with fixed 
+payments and variable payments on the Group's leases were $749 million (2020: $646 million) and $8.5 billion (2020: $5.7 
+billion) respectively. Included within these costs is depreciation expense of $695 million (2020: $593 million) of which $622 
+million (2020: $522 million) relates to buildings and $73 million (2020: $71 million) to machinery and equipment. Total cash 
+payments for leases during 2021 were $9.3 billion (2020: $6.5 billion). 
+The Group's ROU assets are classified as property, plant and equipment on the Consolidated Balance Sheets and presented 
+in Note 8, "Property, Plant and Equipment, net" and lease liabilities are classified as follows: 
+Lease-Related Liabilities 
+Lease liabilities: 
+Total lease liabilities 
+Financial Statement Line Items 
+Other current liabilities 
+Other non-current liabilities 
+Lease liability maturities, on an undiscounted basis, are as follows: 
+Within one year 
+Later than one year but not later than five years 
+Later than five years 
+------------
+25 September 
+26 September 
+2021 
+2020 
+$'m 
+643 
+4,021 
+4,664 
+As of 25 
+September 
+2021 
+$'m 
+697 
+2,243 
+2,166 
+5,106 
+$'m 
+625 
+3,004 
+3,629 
+As of 26 
+September 
+2020 
+$'m 
+673 
+1,937 
+1,232 
+3,842 
+As of 25 September 2021, the Group had $491 million (2020: $1.1 billion) of future payments under additional leases, 
+primarily for corporate facilities and retail space, that had not yet commenced. These leases will commence between 2022 
+and 2023, with lease terms ranging from 3 years to 20 years. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 49 
+
+Apple Operations International Limited 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 13- Commitments and Contingencies 
+The following table show the expenditure contracted for but not recognised as liabilities as of 25 September 2021 and 26 
+September 2020: 
+Unconditional purchase obligations 
+Contingencies 
+As of 25 
+September 
+2021 
+$'m 
+140 
+As of 26 
+September 
+2020 
+$'m 
+230 
+The Group is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of 
+which are inherently uncertain. The Group records a liability when it is probable that a loss has been incurred and the amount 
+is reasonably estimable, the determination of which requires significant judgment. Resolution of legal matters in a manner 
+inconsistent with management's expectations could have a material impact on the Group's financial condition and operating 
+results. 
+French Competition Authority 
+On 16 March 2020, the French Competition Authority ("FCA") announced its decision that aspects of the Apple Inc. group's 
+sales and distribution practices in France violate French competition law, and issued a fine of €1.1 billion. The Group strongly 
+disagrees with the FCA's decision, and has appealed. 
+Note 14 - Approval of Financial Statements 
+The Group financial statements were approved and authorised for issue by the board of directors on 28 January, 2022. 
+Apple Operations International Limited I 2021 Directors' Report and Financial Statements I 50 
+

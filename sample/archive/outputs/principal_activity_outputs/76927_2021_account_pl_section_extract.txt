@@ -1,0 +1,21 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 76927_2021 account_pl.txt
+====================================================================================================
+
+Principal Activities, Business Review and Future Events
+The Group develops, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and
+sells a variety of related services.
+The Group recorded net sales in 2021 of $211.1 billion (2020: $148.2 billion), an increase of 42.4%. Gross margin in 2021
+was 42.4% (2020: 39.1%). The Group incurred research and development ("R&D") costs in 2021 of $12.5 billion (2020: $15.5
+billion). Net income in 2021 was $56.2 billion (2020: $27.7 billion). Average full time equivalent employees for 2021 were
+52,563 (2020: 51,255). Net assets for 2021 were $58.8 billion (2020: $26.4 billion), an increase of $32.4 billion.
+The Company's principal activity is to serve as a holding company for the management of certain Apple subsidiary
+companies and other investments. The profit of the Company in 2021 was $26.0 billion (2020: $70.3 billion).
+The directors do not anticipate any significant change in activities for the Group and Company in the foreseeable future.
+Income Taxes
+The corporate income taxes reported in the Consolidated Statements of Operations, Balance Sheets, and Statements of
+Cash Flows do not include significant U.S.-level corporate taxes borne by Apple Inc., the ultimate parent of the Group.
+U.S.-level taxes are paid by Apple Inc. on investment income of the Group at the rate of 21.0% (2020: 21.0%) net of
+applicable foreign tax credits. In addition, changes in U.S. tax legislation that took effect in December 2017 subject certain
+current foreign earnings of the Group to a new minimum tax.

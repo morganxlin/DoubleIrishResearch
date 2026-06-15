@@ -1,0 +1,16 @@
+{
+  "filename": "182294_2021 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/182294_2021 account_pl.txt",
+  "turnover": 807238.0,
+  "operating_profit": 67406.0,
+  "profit_before_tax": 1859.0,
+  "profit_loss_for_year": -3611.0,
+  "currency": "EUR",
+  "raw_data": [
+    "turnover: statement-block extraction",
+    "operating_profit: statement-block extraction",
+    "profit_before_tax: statement-block extraction",
+    "profit_loss_for_year: statement-block extraction"
+  ],
+  "confidence": "high"
+}

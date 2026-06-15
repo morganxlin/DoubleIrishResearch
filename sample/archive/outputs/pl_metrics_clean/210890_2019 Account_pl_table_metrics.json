@@ -1,0 +1,122 @@
+{
+  "filename": "210890_2019 Account_pl",
+  "currency": "USD",
+  "table_rows": [
+    {
+      "label": "3-5: 3-5",
+      "values": [
+        3.0,
+        5.0,
+        3.0,
+        5.0
+      ],
+      "largest_value": 5.0
+    },
+    {
+      "label": "7-9: 7-9",
+      "values": [
+        7.0,
+        9.0,
+        7.0,
+        9.0
+      ],
+      "largest_value": 9.0
+    },
+    {
+      "label": "13 - 28: 13  -  28",
+      "values": [
+        13.0,
+        28.0,
+        13.0,
+        28.0
+      ],
+      "largest_value": 28.0
+    },
+    {
+      "label": "H91 E2A3",
+      "values": [
+        91.0,
+        2.0,
+        3.0
+      ],
+      "largest_value": 91.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "2 Park Place",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "Dublin: 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "1 Airton Close",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "Dublin: 24",
+      "values": [
+        24.0
+      ],
+      "largest_value": 24.0
+    },
+    {
+      "label": "25/28 North Wall Quay",
+      "values": [
+        25.0,
+        28.0
+      ],
+      "largest_value": 28.0
+    },
+    {
+      "label": "Dublin: 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "auditor's report for the financial year ended 31 December: 2019.",
+      "values": [
+        31.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "Income and the Balance Sheet on pages 10 and 11 respectively.",
+      "values": [
+        10.0,
+        11.0
+      ],
+      "largest_value": 11.0
+    },
+    {
+      "label": "Sales revenues grew by 9% (US$",
+      "values": [
+        9.0
+      ],
+      "largest_value": 9.0
+    }
+  ],
+  "turnover": 9.0,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": null
+}

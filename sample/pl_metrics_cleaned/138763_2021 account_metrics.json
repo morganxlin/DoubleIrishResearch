@@ -1,0 +1,16 @@
+{
+  "filename": "138763_2021 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/138763_2021 account_pl.txt",
+  "turnover": 31442.0,
+  "operating_profit": 2086.0,
+  "profit_before_tax": -202.0,
+  "profit_loss_for_year": 31.0,
+  "currency": "EUR",
+  "raw_data": [
+    "Turnover at line 300: 31,442: 31,442",
+    "Operating Profit at line 318: 2,086: 2,086",
+    "Profit Before Tax at line 347: k: (2020",
+    "Profit/Loss for Year at line 89: The company earned a profit for the year ended 31st December and is in a net ass"
+  ],
+  "confidence": "high"
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "76927_2021 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/76927_2021 account_pl.txt",
+  "turnover": 202.0,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": 202.0,
+  "currency": "USD",
+  "raw_data": [
+    "Turnover at line 36: The Group recorded net sales in 2021 of $211.1 billion (2020: $148.2 billion), a",
+    "Profit/Loss for Year at line 38: billion). Net income in 2021 was $56.2 billion (2020: $27.7 billion). Average fu"
+  ],
+  "confidence": "high"
+}

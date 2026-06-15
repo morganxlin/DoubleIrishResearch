@@ -1,0 +1,306 @@
+{
+  "filename": "904750_2024 account_pl",
+  "currency": "USD",
+  "table_rows": [
+    {
+      "label": "5-7",
+      "values": [
+        5.0,
+        7.0
+      ],
+      "largest_value": 7.0
+    },
+    {
+      "label": "8 9",
+      "values": [
+        8.0,
+        9.0
+      ],
+      "largest_value": 9.0
+    },
+    {
+      "label": "10-27",
+      "values": [
+        10.0,
+        27.0
+      ],
+      "largest_value": 27.0
+    },
+    {
+      "label": "904750",
+      "values": [
+        904750.0
+      ],
+      "largest_value": 904750.0
+    },
+    {
+      "label": "Dublin 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "Dublin 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "70 Sir John Rogerson\u2019s Quay",
+      "values": [
+        70.0
+      ],
+      "largest_value": 70.0
+    },
+    {
+      "label": "Dublin 2  D02 R296",
+      "values": [
+        2.0,
+        2.0,
+        296.0
+      ],
+      "largest_value": 296.0
+    },
+    {
+      "label": "Page 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "the period ended 29 December 2024. The period of the Annual Report and Financial Statements is 1 January 2024",
+      "values": [
+        29.0,
+        2024.0,
+        1.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "to 29 December 2024 being 52 weeks. The prior year period is for 2 January 2023 to 31 December 2023.",
+      "values": [
+        29.0,
+        2024.0,
+        52.0,
+        2.0,
+        2023.0,
+        31.0,
+        2023.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "The results for the period are disclosed on page 9. The company received no dividend income during the year",
+      "values": [
+        9.0
+      ],
+      "largest_value": 9.0
+    },
+    {
+      "label": "(2023:Nil) and the company paid no dividend (2023:Nil).",
+      "values": [
+        2023.0,
+        2023.0
+      ],
+      "largest_value": 2023.0
+    },
+    {
+      "label": "The Company has recorded a loss after tax of USD (27,294,156) (2023: Profit after tax of USD 14,986,524).",
+      "values": [
+        27294156.0,
+        2023.0,
+        14986524.0
+      ],
+      "largest_value": 27294156.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2024",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Page 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "ended 29 December 2024.",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Mary Daly -resigned 7 August 2024",
+      "values": [
+        7.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Sean Keane - resigned 4 February 2025",
+      "values": [
+        4.0,
+        2025.0
+      ],
+      "largest_value": 2025.0
+    },
+    {
+      "label": "Jens Jacobsen \u2013 resigned 25 April 2024",
+      "values": [
+        25.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Aine Callaghan \u2013 appointed 25 June 2024",
+      "values": [
+        25.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "John Lynch \u2013 appointed 25 June 2024",
+      "values": [
+        25.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Lisa McAlister \u2013 appointed 25 June 2024",
+      "values": [
+        25.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Raychel Kruper \u2013 appointed 1 November 2024",
+      "values": [
+        1.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Kieran O'Connell -appointed 12 August 2025",
+      "values": [
+        12.0,
+        2025.0
+      ],
+      "largest_value": 2025.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2024",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Page 3",
+      "values": [
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "Company in the period ended 29 December 2024. In accordance with Section 329 (1) to (4) of the companies Act",
+      "values": [
+        29.0,
+        2024.0,
+        329.0,
+        1.0,
+        4.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "2014, none of the directors or secretary who were in office in the period ended 29 December 2024 held any",
+      "values": [
+        2014.0,
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "interests in shares or options to purchase shares of group companies greater than 1% of the normal value of the",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2024",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "Page 4",
+      "values": [
+        4.0
+      ],
+      "largest_value": 4.0
+    },
+    {
+      "label": "Page 5",
+      "values": [
+        5.0
+      ],
+      "largest_value": 5.0
+    },
+    {
+      "label": "give a true and fair view of the company\u2019s assets, liabilities and financial position as at 29 December 2024 and of",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    },
+    {
+      "label": "its loss for the 52 week period (the \u201cperiod\u201d) then ended; and",
+      "values": [
+        52.0
+      ],
+      "largest_value": 52.0
+    },
+    {
+      "label": "standards issued by the Financial Reporting Council of the UK, including Financial Reporting Standard 102 \u201cThe",
+      "values": [
+        102.0
+      ],
+      "largest_value": 102.0
+    },
+    {
+      "label": "the Statement of Financial Position as at 29 December 2024;",
+      "values": [
+        29.0,
+        2024.0
+      ],
+      "largest_value": 2024.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": null
+}

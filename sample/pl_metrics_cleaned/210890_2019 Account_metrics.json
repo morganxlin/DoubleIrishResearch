@@ -1,0 +1,13 @@
+{
+  "filename": "210890_2019 Account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/210890_2019 Account_pl.txt",
+  "turnover": 9.0,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": null,
+  "currency": "USD",
+  "raw_data": [
+    "Turnover at line 67: Sales revenues grew by 9% (US$"
+  ],
+  "confidence": "low"
+}

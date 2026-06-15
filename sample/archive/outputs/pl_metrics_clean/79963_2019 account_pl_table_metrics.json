@@ -1,0 +1,453 @@
+{
+  "filename": "79963_2019 account_pl",
+  "currency": "USD",
+  "table_rows": [
+    {
+      "label": "10",
+      "values": [
+        10.0
+      ],
+      "largest_value": 10.0
+    },
+    {
+      "label": "11",
+      "values": [
+        11.0
+      ],
+      "largest_value": 11.0
+    },
+    {
+      "label": "12",
+      "values": [
+        12.0
+      ],
+      "largest_value": 12.0
+    },
+    {
+      "label": "13 - 26",
+      "values": [
+        13.0,
+        26.0
+      ],
+      "largest_value": 26.0
+    },
+    {
+      "label": "79963",
+      "values": [
+        79963.0
+      ],
+      "largest_value": 79963.0
+    },
+    {
+      "label": "25 Canada Square",
+      "values": [
+        25.0
+      ],
+      "largest_value": 25.0
+    },
+    {
+      "label": "London E14 5LB",
+      "values": [
+        14.0,
+        5.0
+      ],
+      "largest_value": 14.0
+    },
+    {
+      "label": "3 Burlington Road",
+      "values": [
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "Dublin 4",
+      "values": [
+        4.0
+      ],
+      "largest_value": 4.0
+    },
+    {
+      "label": "Page 1",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2019",
+      "values": [
+        29.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "The directors present their annual report and the audited financial statements for the financial year ended 29",
+      "values": [
+        29.0
+      ],
+      "largest_value": 29.0
+    },
+    {
+      "label": "December 2019.",
+      "values": [
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "Council, including Financial Reporting Standard 101 Reduced Disclosure Framework and Irish law).",
+      "values": [
+        101.0
+      ],
+      "largest_value": 101.0
+    },
+    {
+      "label": "enable the directors to ensure that the financial statements comply with the Companies Act 2014 and",
+      "values": [
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "Page 2",
+      "values": [
+        2.0
+      ],
+      "largest_value": 2.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2019",
+      "values": [
+        29.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "During the financial year 2019, upon liquidation, Turnbuckle Investment Unlimited Company transferred",
+      "values": [
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "Company in amount of \u20ac1,205,000 (2018: \u20acnil).",
+      "values": [
+        1205000.0,
+        2018.0
+      ],
+      "largest_value": 1205000.0
+    },
+    {
+      "label": "On 20 March 2018 Janssen Pharmaceutical Unlimited Company merged with OMJ PR Holdings Limited. In",
+      "values": [
+        20.0,
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "consideration for the merger 1,250,000,000 ordinary shares in Janssen Pharmaceutical Unlimited",
+      "values": [
+        1250000000.0
+      ],
+      "largest_value": 1250000000.0
+    },
+    {
+      "label": "The company's financial year ends on the Sunday closest to 31 December, being 29 December 2019 for the",
+      "values": [
+        31.0,
+        29.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "current year (52 weeks) and 30 December 2018 for the prior year (52 weeks).",
+      "values": [
+        52.0,
+        30.0,
+        2018.0,
+        52.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "The loss for the financial year, after taxation, amounted to \u20ac538,276,000 (2018: loss of \u20ac1,904,031,000).",
+      "values": [
+        538276000.0,
+        2018.0,
+        1904031000.0
+      ],
+      "largest_value": 1904031000.0
+    },
+    {
+      "label": "The directors do not recommended the payment of a dividend (2018: \u20acNil).",
+      "values": [
+        2018.0
+      ],
+      "largest_value": 2018.0
+    },
+    {
+      "label": "The company's statement of financial position shows total equity at 29 December 2019 of \u20ac21,982,823,000",
+      "values": [
+        29.0,
+        2019.0,
+        21982823000.0
+      ],
+      "largest_value": 21982823000.0
+    },
+    {
+      "label": "(2018: \u20ac22,521,099,000).",
+      "values": [
+        2018.0,
+        22521099000.0
+      ],
+      "largest_value": 22521099000.0
+    },
+    {
+      "label": "Page 3",
+      "values": [
+        3.0
+      ],
+      "largest_value": 3.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2019",
+      "values": [
+        29.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "On 30 September 2020 the company's wholly owned subsidiary, Depuy Ireland Unlimited Company, made a",
+      "values": [
+        30.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "distribution in the amount of approximately \u20ac1,400,000 in favour of the company.",
+      "values": [
+        1400000.0
+      ],
+      "largest_value": 1400000.0
+    },
+    {
+      "label": "On 21 October 2020 the entire issued share capital of the company being 11,901,474,820 shares of \u20ac1.25 each",
+      "values": [
+        21.0,
+        2020.0,
+        11901474820.0,
+        1.25
+      ],
+      "largest_value": 11901474820.0
+    },
+    {
+      "label": "On 20 November 2020 the company transferred its entire shareholding in Johnson & Johnson International",
+      "values": [
+        20.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "Financial Services Company, being one ordinary share of US$1.00 to its wholly owned subsidiary Ethicon PR",
+      "values": [
+        1.0
+      ],
+      "largest_value": 1.0
+    },
+    {
+      "label": "On 30 November 2020 the company implemented a capital reduction of 6,000,000,000 shares of \u20ac1.25",
+      "values": [
+        30.0,
+        2020.0,
+        6000000000.0,
+        1.25
+      ],
+      "largest_value": 6000000000.0
+    },
+    {
+      "label": "each and distributed its investment in Ethicon PR Holdings Unlimited Company consisting of 3,038,095",
+      "values": [
+        3038095.0
+      ],
+      "largest_value": 3038095.0
+    },
+    {
+      "label": "shares in the amount of \u20ac15,976,613,000 to Cilag GmbH International.",
+      "values": [
+        15976613000.0
+      ],
+      "largest_value": 15976613000.0
+    },
+    {
+      "label": "On 29 July 2021 the company's sole shareholder, Cilag Gmbh International, injected further capital into the",
+      "values": [
+        29.0,
+        2021.0
+      ],
+      "largest_value": 2021.0
+    },
+    {
+      "label": "company by way of subscription of 1,000,000 ordinary shares of \u20ac1.25 each in the capital of the company.",
+      "values": [
+        1000000.0,
+        1.25
+      ],
+      "largest_value": 1000000.0
+    },
+    {
+      "label": "On 30 November 2021 the company changed its name from Janssen Pharmaceutical to Janssen",
+      "values": [
+        30.0,
+        2021.0
+      ],
+      "largest_value": 2021.0
+    },
+    {
+      "label": "coronavirus (COVID-19). This outbreak is classified as non-adjusting event after the reporting date.",
+      "values": [
+        19.0
+      ],
+      "largest_value": 19.0
+    },
+    {
+      "label": "The COVID-19 pandemic has not had a significant impact on the business to date. However this is being actively",
+      "values": [
+        19.0
+      ],
+      "largest_value": 19.0
+    },
+    {
+      "label": "The names of the persons who are currently or were directors at any time during the financial year ended 29",
+      "values": [
+        29.0
+      ],
+      "largest_value": 29.0
+    },
+    {
+      "label": "December 2019 are set out below. Except where indicated, they served for the full year:",
+      "values": [
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "Brendan O'Leary (resigned 31 December 2020)",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "Marie Tyndall (appointed 24 November 2020)",
+      "values": [
+        24.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "Brendan O'Leary resigned as the company secretary on 31 December 2020 and Matsack Trust Limited",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "became the company secretary as at 31 December 2020.",
+      "values": [
+        31.0,
+        2020.0
+      ],
+      "largest_value": 2020.0
+    },
+    {
+      "label": "Page 4",
+      "values": [
+        4.0
+      ],
+      "largest_value": 4.0
+    },
+    {
+      "label": "FOR THE FINANCIAL YEAR ENDED 29 DECEMBER 2019",
+      "values": [
+        29.0,
+        2019.0
+      ],
+      "largest_value": 2019.0
+    },
+    {
+      "label": "company that is required to be disclosed in accordance with section 329 of the Companies Act 2014.",
+      "values": [
+        329.0,
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "The measures taken by the directors to ensure compliance with the requirements of Sections 281 to 285 of the",
+      "values": [
+        281.0,
+        285.0
+      ],
+      "largest_value": 285.0
+    },
+    {
+      "label": "Companies Act 2014 with regard to the keeping of accounting records, are the support of appropriately qualified",
+      "values": [
+        2014.0
+      ],
+      "largest_value": 2014.0
+    },
+    {
+      "label": "The Electoral (Amendment) (Political Funding) Act, 2012, requires companies to disclose all political donations",
+      "values": [
+        2012.0
+      ],
+      "largest_value": 2012.0
+    },
+    {
+      "label": "over \u20ac200 in aggregate made during the financial year. The directors, on enquiry, have satisfied themselves that",
+      "values": [
+        200.0
+      ],
+      "largest_value": 200.0
+    },
+    {
+      "label": "continue to operate as a going concern. The company has net current liabilities at year end of \u20ac12,730,382,000",
+      "values": [
+        12730382000.0
+      ],
+      "largest_value": 12730382000.0
+    },
+    {
+      "label": "(2018: \u20ac13,314,413,000). Subsequent to the year-end, this has further reduced to \u20ac7,900,000,000.",
+      "values": [
+        2018.0,
+        13314413000.0,
+        7900000000.0
+      ],
+      "largest_value": 13314413000.0
+    },
+    {
+      "label": "Management have considered the impact of the COVID-19 pandemic on the company's ability to continue",
+      "values": [
+        19.0
+      ],
+      "largest_value": 19.0
+    }
+  ],
+  "turnover": null,
+  "operating_profit": null,
+  "profit_before_tax": null,
+  "profit_loss_for_year": 1904031000.0
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "file": "138763-Account_details_for_ARCROYAL_LIMITED-2020-09-30_pl.txt",
+    "metric": "profit_loss_for_year",
+    "extracted": 101.0,
+    "statement_block": null,
+    "note": "fallback only",
+    "has_block": true
+  },
+  {
+    "file": "182294_2019 account_pl.txt",
+    "metric": "profit_before_tax",
+    "extracted": 111.0,
+    "statement_block": null,
+    "note": "fallback only",
+    "has_block": true
+  },
+  {
+    "file": "182294_2019 account_pl.txt",
+    "metric": "profit_loss_for_year",
+    "extracted": 101.0,
+    "statement_block": null,
+    "note": "fallback only",
+    "has_block": true
+  },
+  {
+    "file": "182294_2022 account_pl.txt",
+    "metric": "profit_before_tax",
+    "extracted": 35792.0,
+    "statement_block": null,
+    "note": "fallback only",
+    "has_block": true
+  }
+]

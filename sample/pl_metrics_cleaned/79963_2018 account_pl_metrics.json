@@ -1,0 +1,15 @@
+{
+  "filename": "79963_2018 account_pl",
+  "file_path": "/Users/morganlin/Library/CloudStorage/OneDrive-SharedLibraries-VillanovaUniversity/Brian Grant - Grant and Lin/sample/79963_2018 account_pl.txt",
+  "turnover": null,
+  "operating_profit": -6988.0,
+  "profit_before_tax": -1904031.0,
+  "profit_loss_for_year": -1904031.0,
+  "currency": "EUR",
+  "raw_data": [
+    "Operating Profit: (6,988)",
+    "Profit Before Tax: (1,904,031)",
+    "Profit/Loss for Year: (1,904,031)"
+  ],
+  "confidence": "high"
+}

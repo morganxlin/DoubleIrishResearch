@@ -1,0 +1,7 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 138763_2021 account_pl.txt
+====================================================================================================
+
+Principal activities
+The company manufactures and sells custom sterile procedural packs and sterile surgical disposables.

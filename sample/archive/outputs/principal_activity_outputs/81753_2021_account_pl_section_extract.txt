@@ -1,0 +1,8 @@
+SECTION EXTRACT: Principal Activity
+====================================================================================================
+Source: 81753_2021 account_pl.txt
+====================================================================================================
+
+Principal activity
+The company is a holding company. Details of the company's subsidiaries and associate are set out in
+note 9 to the financial statements.
