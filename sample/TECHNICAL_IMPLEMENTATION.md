@@ -1,6 +1,8 @@
 # TECHNICAL IMPLEMENTATION: P&L Metrics & Directors Extraction
 ## Full Technical Breakdown of AI/ML-Assisted Financial Data Extraction
 
+> **Code navigation:** For exact file paths and line numbers for every function, see [`CODE_REFERENCE.md`](CODE_REFERENCE.md).
+
 ---
 
 ## 1. TECHNOLOGY STACK & ARCHITECTURE
@@ -81,7 +83,7 @@ JSON Metrics Output → CSV Reports
   - "Statement of Comprehensive Income"
   - Fuzzy variations: "P. rotlt and loss acct"
 
-**Code Pattern**:
+**Code Pattern** (`extract_pl_metrics_v2.py` lines **234–238**):
 ```python
 STATEMENT_HEADING_RE = re.compile(
     r"(?:profit\s+and\s+loss\s+account|statement\s+of\s+profit\s+and\s+loss|"
@@ -89,6 +91,8 @@ STATEMENT_HEADING_RE = re.compile(
     re.IGNORECASE,
 )
 ```
+
+**Applied in:** `find_best_statement_block()` — lines **261–358**
 
 **What it prevents**: Random "profit" mentions in narrative text
 
@@ -100,7 +104,7 @@ STATEMENT_HEADING_RE = re.compile(
   - Taxes: `tax`, `taxation`
   - Bottom line: `loss for year`, `profit for year`
 
-**Validation Logic**:
+**Validation Logic** (see `find_income_statement_start()` — `extract_pl_metrics_v2.py` lines **727–768**; scoring in `find_best_statement_block()` lines **305–319**):
 ```python
 # Score: Requires 3+ different keywords to confirm P&L table
 keyword_count >= 3  → HIGH confidence
@@ -116,12 +120,14 @@ keyword_count == 0 → REJECT
 - **Prose Lines**: Lines >100 chars with no numbers and >12 words
 - **Validation**: `Numerical Lines > Prose Lines` for actual table
 
-**Ratio Scoring**:
+**Prose rejection:** `is_narrative_line()` — `extract_pl_metrics_v2.py` lines **771–786**
+
+**Ratio Scoring** (in `find_best_statement_block()` lines **297–303**):
 ```python
-if num_numerical_lines > num_prose_lines:
-    score += (num_numerical_lines * 5)
-else:
-    reject_section()
+if not fuzzy_has_turnover(first_chunk):
+    continue  # reject non-statement sections
+if "independent auditor" in first_chunk:
+    continue
 ```
 
 **What it prevents**: Extracting from Directors' Reports that mention financials narratively
@@ -133,89 +139,79 @@ else:
   score = (keyword_count × 30) + (number_lines × 5) + (date_bonus × 20) - (prose_penalty × 8)
   ```
 
-- **Selection Logic**: 
+**Selection Logic** (`find_best_statement_block()` lines **284–328**):
   - Finds ALL P&L headers in document
   - Scores each one independently
   - Selects the one with HIGHEST score
   - Rejects first header if it has low context
+
+**Confidence after extraction:** lines **1015–1023** in `extract_pl_metrics_v2.py`
 
 **What it prevents**: Taking first P&L mention (often with narrative after) instead of actual table
 
 ### 2.4 Metric Values Extraction
 
 #### 2.4.1 Financial Statement Block Identification
-**Pattern Matching for Block Boundaries**:
+**Pattern Matching for Block Boundaries** (`extract_pl_metrics_v2.py` lines **261–278**, **643–724**):
 ```python
 # Direct pattern matching for known statement formats
 patterns = [
     "Profit and loss account and other comprehensive income for the year ended...",
     "Statement of Profit and Loss for the year ended...",
-    "STATEMENT OF COMPREHENSIVE INCOME"
 ]
-
-# Boundary detection:
-- Start: Statement heading (identified above)
-- End: Next major section heading (Balance Sheet, Statement of Changes, etc.)
-- Fallback: 2000-character limit if boundaries unclear
+# See extract_metrics_from_statement_block() lines 643-724
 ```
 
 #### 2.4.2 OCR Error Handling & Normalization
+**Function:** `normalize_pl_label()` — `extract_pl_metrics_v2.py` lines **195–214**
+
 **OCR Corruption Patterns**:
 ```python
-# Example corruptions:
-"turniwer" → "turnover"           # OCR mistakes: 'l' as '1'
-"operatingpol1e" → "operating profit"  # Mixed digit/letter confusion
-"prootbefore" → "profit before"   # 'f' as 'l'
-"P. rotlt and loss" → "Profit and Loss"  # Character substitution
-
-# Fuzzy normalization:
-replacements = (
-    ("turniwer", "turnover"),
-    ("operatingpol1e", "operatingprofit"),
-    ("prootbefore", "profitbefore"),
-    ...
-)
+# Example corruptions handled in normalize_pl_label() lines 199-211:
+"turniwer" → "turnover"
+"operatingpol1e" → "operatingprofit"
+"prootbefore" → "profitbefore"
+"P. rotlt and loss" → matched via STATEMENT_HEADING_RE line 237
 ```
 
 #### 2.4.3 Numeric Parsing with Accounting Format Support
-**Number Extraction Function** (`extract_number`):
+**Number Extraction Function** — `extract_number()` at `extract_pl_metrics_v2.py` lines **12–44**; accounting negatives at `parse_accounting_token()` lines **147–157**:
 - Handles multiple formats:
   - Standard: `123,456.78`
   - Accounting (negative in parens): `(45,678)` → -45678
   - Mixed: `€123,456`, `$1,234,567`
   
-- **Year Filtering** (Critical): Removes false positives
+- **Year Filtering** (Critical) — lines **37–38**:
   ```python
-  # Skip year values that appear as numbers
   if abs(value) in {2014.0, 2015.0, ..., 2026.0}:
       continue  # Skip year-like noise
   ```
 
-- **Magnitude Selection**:
+- **Magnitude Selection** — line **44**:
   ```python
-  # Prefers largest absolute value (financial amounts >> page numbers)
   return max(candidates, key=lambda x: abs(x))
   ```
 
 ### 2.5 Core Metrics Extracted
 
-**4 Primary Metrics**:
-1. **Turnover** (Revenue/Sales)
+**4 Primary Metrics** (keyword lists in `extract_pl_metrics()` lines **949–974**):
+
+1. **Turnover** — line **949**
    - Keywords: `turnover`, `revenue`, `sales revenue`, `net sales`, `total revenue`
    
-2. **Operating Profit**
+2. **Operating Profit** — line **956**
    - Keywords: `operating profit`, `operating income`, `operating loss`
    
-3. **Profit Before Tax**
+3. **Profit Before Tax** — lines **963–964**
    - Keywords: `profit before tax`, `profit before taxation`, `PBT`
    
-4. **Profit/Loss for Financial Year**
-   - Keywords: `profit for year`, `loss for year`, `net income`, `profit for the year`, `loss for financial year`
+4. **Profit/Loss for Financial Year** — lines **972–974**
+   - Keywords: `profit for year`, `loss for year`, `net income`, `profit for the financial year`
 
-**Data Quality Metrics**:
-- Currency Detection: `$` → USD, `€` → EUR, `£` → GBP
-- Completeness Score: (Fields filled / 4 fields) × 100%
-- Confidence Level: `high`, `medium`, `low` based on guardrails passed
+**Data Quality Metrics:**
+- Currency Detection: lines **922–938** (`$` → USD, `€` → EUR, `£` → GBP)
+- Completeness Score: `create_pl_review.py` lines **23–26**
+- Confidence Level: `extract_pl_metrics_v2.py` lines **1015–1023**
 
 ---
 
@@ -230,6 +226,8 @@ replacements = (
 ### 3.2 Extraction Patterns
 
 #### Pattern 1: Explicit Role Designation
+**Location:** `archive/pdf_extractor.py` lines **399–414**
+
 **Pattern**: `Name - Director`
 ```regex
 ^\s*([^\n\r]+?)\s*-\s*Director\b
@@ -237,6 +235,8 @@ replacements = (
 **Example**: `John Smith - Director` → Extracted as "John Smith"
 
 #### Pattern 2: Structured Directors Block
+**Location:** `archive/pdf_extractor.py` lines **388–416+**
+
 **Pattern**: Section headed "Directors:" with list below
 ```regex
 (?:^|\n)\s*Directors?\s*\n([\s\S]*?)(?=\n\s*(?:Secretary|Registered|Auditor|Business)\b)
@@ -291,62 +291,62 @@ for name in extracted_names:
 
 ## 4. CODEBASE ORGANIZATION
 
+> Full function-level index with line numbers: [`CODE_REFERENCE.md`](CODE_REFERENCE.md)
+
 ### 4.1 Main Processing Scripts
 
-#### `extract_pl_metrics_v2.py` (Latest Version)
+#### `extract_pl_metrics_v2.py` (Latest Version) — lines **1–1079**
 **Purpose**: Production P&L extraction with full guardrails
-- Functions:
-  - `extract_number()` - Parse accounting numbers
-  - `extract_statement_source_text()` - Get best text from JSON
-  - `normalize_pl_label()` - Collapse OCR noise
-  - `find_best_statement_block()` - Locate P&L table
-  - `extract_metrics_from_statement_block()` - Extract 4 metrics
-  - `extract_inline_pl_metrics()` - Handle row-by-row format
-  - `process_text_files()` - Batch process all files
+- `extract_number()` — lines **12–44**
+- `extract_statement_source_text()` — lines **100–126**
+- `normalize_pl_label()` — lines **195–214**
+- `find_best_statement_block()` — lines **261–358**
+- `extract_metrics_from_statement_block()` — lines **643–724**
+- `extract_inline_pl_metrics()` — lines **361–385**
+- `extract_pl_metrics()` — lines **883–1025**
+- `process_all_pl_files()` — lines **1027–1064**
 
-**Output**: JSON files with metrics + confidence scores
+**Output**: JSON files with metrics + confidence scores → `pl_metrics_cleaned/`
 
-#### `archive/pdf_extractor.py` / `pdf_extractor_withnotes.py`
+#### `archive/pdf_extractor.py` — lines **1–730**
 **Purpose**: PDF → JSON conversion (comprehensive extraction)
-- Functions:
-  - `extract_text()` - Get all text by page
-  - `extract_metadata()` - PDF properties
-  - `extract_images()`, `extract_links()`, `extract_annotations()`
-  - `extract_current_directors()` - Directors pattern matching
-  - `extract_company_name()` - Company identification
-  - `extract_year_ended()` - Financial year detection
+- `extract_text()` — lines **45–58**
+- `extract_metadata()` — lines **20–28**
+- `extract_profit_and_loss_table()` — lines **220–271**
+- `extract_all_attributes()` — lines **291–324**
+- `extract_current_directors()` — lines **327–507**
+- `extract_company_name()` — lines **543–580**
+- `extract_year_ended()` — lines **509–541**
+- `main()` (writes JSON + `_pl.txt`) — lines **596–724**
 
 **Output**: Comprehensive JSON with all PDF attributes
 
-#### `extract_directors_v4.py` (Latest Directors Version)
+#### `extract_directors_v4.py` (Latest Directors Version) — `archive/extract_directors_v4.py`
 **Purpose**: Clean directors extraction from text
-- Functions:
-  - `extract_directors_clean()` - Pattern matching for roles
-  - Handles: Directors, Secretaries, Auditors/Auditors
-  - Output: Tuples of (role, name)
+- `extract_directors_clean()` — lines **17–86**
+- `main()` — lines **88–119**
 
 #### `archive/principal_activity_BGversion.py`
 **Purpose**: Extract "Principal Activities and Business Review" section
-- Pattern matching for business description
-- Stops at next major section (Financial, Independent, etc.)
+- `extract_principal_activity()` — lines **19–68**
+- Also: `archive/extract_principal_activity.py` lines **9–68**
 
 ### 4.2 Analysis & Validation Scripts
 
-#### `create_pl_review.py`
-**Purpose**: Generate CSV review report from metrics
-- Calculates data completeness %
-- Flags incomplete records
-- Generates summary statistics
+#### `create_pl_review.py` — lines **1–176**
+- `calculate_completeness()` — lines **23–26**
+- `create_review_report()` — lines **39–172**
 
-#### `audit_pl_metrics.py`
-**Purpose**: Validate extraction quality
-- Cross-checks metrics against thresholds
-- Identifies outliers and garbage values
+#### `audit_pl_metrics.py` — lines **1–82**
+- `main()` — lines **17–78** (cross-checks vs statement-block reference)
 
-#### `find_pl_numbers.py`
-**Purpose**: Quick scan for P&L presence in files
-- Searches for keywords
-- Reports files with potential data
+#### `analyze_profit_shifting.py` — lines **1–195**
+- `analyze_profit_shifting()` — lines **12–98**
+- Red-flag rules — lines **64–90**
+
+#### `find_pl_numbers.py` — lines **1–131**
+- `find_pl_numbers()` — lines **83–102**
+- `search_company()` — lines **104–123**
 
 ### 4.3 Jupyter Notebooks
 
@@ -563,36 +563,45 @@ for name in extracted_names:
 
 ## 9. EXECUTION WORKFLOW
 
+> Line numbers for each step: [`CODE_REFERENCE.md`](CODE_REFERENCE.md) § "Quick Start"
+
 ### Step 1: PDF to JSON Conversion
 ```bash
-python archive/pdf_extractor_withnotes.py <pdf_directory> --json --recursive
+python archive/pdf_extractor.py .
 ```
+**Code:** `archive/pdf_extractor.py` lines **669–696** (writes JSON + `_pl.txt`)  
 **Output**: One JSON file per PDF with full extraction
 
 ### Step 2: P&L Metrics Extraction
 ```bash
 python extract_pl_metrics_v2.py
 ```
-**Input**: JSON files + optional text files
+**Code:** `extract_pl_metrics_v2.py` lines **1066–1079** (entry), **1027–1064** (batch)  
+**Input**: JSON files + `*_pl.txt`  
 **Output**: Metrics JSON files in `pl_metrics_cleaned/`
 
 ### Step 3: Directors Extraction
 ```bash
 python archive/extract_directors_v4.py
 ```
-**Input**: Text files (from PDF extraction)
+**Code:** `archive/extract_directors_v4.py` lines **88–119**  
+**Input**: Text files (from PDF extraction)  
 **Output**: Directors text files and consolidated JSON
 
 ### Step 4: Review & Analysis
 ```bash
 python create_pl_review.py
+python analyze_profit_shifting.py
 ```
+**Code:** `create_pl_review.py` lines **39–172**; `analyze_profit_shifting.py` lines **100–192**  
 **Output**: CSV report + console statistics
 
 ### Step 5: Validation
 ```bash
+python audit_pl_metrics.py
 jupyter notebook P_and_L_Extraction_Results.ipynb
 ```
+**Code:** `audit_pl_metrics.py` lines **17–78**  
 **Interactive**: Inspect extractions, visualize data, validate outliers
 
 ---
